@@ -1,0 +1,1623 @@
+{
+  "themes": [
+    "Fold",
+    "Shatter",
+    "Melt",
+    "Tangle",
+    "Moss",
+    "Orrery",
+    "Hollow",
+    "Tesseract",
+    "Membrane",
+    "Caustic",
+    "Rust",
+    "Feather",
+    "Labyrinth",
+    "Tension",
+    "Mirage",
+    "Spore",
+    "Kelp",
+    "Pendulum",
+    "Erosion",
+    "Cocoon",
+    "Bolt",
+    "Echo",
+    "Magma",
+    "Nest",
+    "Veil",
+    "Anamorph",
+    "Burrow",
+    "Hive",
+    "Portal",
+    "Dissolve"
+  ],
+  "creators": {
+    "mrdoob": {
+      "name": "mrdoob",
+      "handle": "mrdoob",
+      "url": "https://mrdoob.github.io/codevember-2026/"
+    },
+    "spite": {
+      "name": "Jaume Sánchez Elias",
+      "handle": "thespite",
+      "url": "https://spite.github.io/codevember-2026/"
+    },
+    "adam": {
+      "name": "Adam Chernick",
+      "handle": "ajc_builds",
+      "url": "https://adamwebsite.com/codevember/"
+    },
+    "akella": {
+      "name": "akella",
+      "handle": "akella",
+      "url": "https://akella.github.io/codevember-2026/"
+    },
+    "theo": {
+      "name": "Theo Tillberg",
+      "handle": "theo_t",
+      "url": "https://ttillberg.github.io/codevember-2026/"
+    },
+    "vipin": {
+      "name": "Vipin Pathak",
+      "handle": "curllmooha",
+      "url": "https://codevember-26.vercel.app/"
+    },
+    "andrew": {
+      "name": "Andrew Voirol",
+      "handle": "AI_Andrew",
+      "url": "https://github.com/AndrewVoirol/codevember-2026"
+    },
+    "drschizzo": {
+      "name": "drschizzo",
+      "handle": "drschizzo",
+      "url": "https://drschizzo.github.io/Codevember/"
+    },
+    "frida": {
+      "name": "Frida Wiig",
+      "handle": "aqua_ne0n",
+      "url": "https://codevember.vercel.app/"
+    },
+    "lars": {
+      "name": "Lars Berg",
+      "handle": "laserberg",
+      "url": "https://x.com/laserberg"
+    },
+    "gregory": {
+      "name": "Grégory Daviet",
+      "handle": "grgrdvrt",
+      "url": "https://grgrdvrt.com/works/codevember-2026/"
+    },
+    "greg": {
+      "name": "Greg Christian",
+      "handle": "gregpuzzles1",
+      "url": "https://github.com/gregpuzzles1/codevember-2026"
+    },
+    "aki": {
+      "name": "Aleksandar Aki Rodić",
+      "handle": "akirodic",
+      "url": "https://akirodic.com/p/codevember2026/"
+    },
+    "tino": {
+      "name": "Tino Tibaldo",
+      "handle": "tinotibaldo",
+      "url": "https://x.com/tinotibaldo"
+    },
+    "shoreless": {
+      "name": "shoreless",
+      "handle": "shoreless",
+      "url": "https://shoreless.github.io/codevember/"
+    },
+    "loktar": {
+      "name": "Loktar",
+      "handle": "loktar00",
+      "url": "https://loktar00.github.io/codevember/"
+    },
+    "niyati": {
+      "name": "Niyati",
+      "handle": "Niyati82",
+      "url": "https://github.com/Niyati82/codevember-2026"
+    },
+    "eric": {
+      "name": "Eric Levin",
+      "handle": "ericrius1",
+      "url": "https://www.ericlevin.dev/codevember/"
+    },
+    "felix": {
+      "name": "Félix Martínez",
+      "handle": "Sirokos",
+      "url": "https://codevember-2026.felixmartinez.dev/"
+    },
+    "pwd": {
+      "name": "Frank Reitberger",
+      "handle": "_pwd_",
+      "url": "https://x.com/_pwd_"
+    },
+    "tiago": {
+      "name": "Tiago Canzian",
+      "handle": "tgcnzn",
+      "url": "https://x.com/tgcnzn"
+    },
+    "henk": {
+      "name": "Henk Beemsterboer",
+      "handle": "hpbeem",
+      "url": "https://x.com/hpbeem"
+    },
+    "magpie": {
+      "name": "hard2forgetme",
+      "handle": "hard2forgetme",
+      "url": "https://github.com/hard2forgetme/magpie-window-sill"
+    },
+    "cartesius": {
+      "name": "Cartesius",
+      "handle": "CartesiusXYZ",
+      "url": "https://x.com/CartesiusXYZ"
+    }
+  },
+  "works": [
+    {
+      "creator": "mrdoob",
+      "title": "Folding Cloth",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 1,
+      "image": "https://mrdoob.github.io/codevember-2026/files/01.webp"
+    },
+    {
+      "creator": "spite",
+      "title": "Fold",
+      "url": "https://spite.github.io/codevember-2026/1/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 1,
+      "image": "https://spite.github.io/codevember-2026/screenshots/1.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Paper Map",
+      "url": "https://adamwebsite.com/codevember/01-fold/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 1,
+      "image": "https://adamwebsite.com/codevember/01-fold.jpg"
+    },
+    {
+      "creator": "akella",
+      "title": "Fold",
+      "url": "https://akella.github.io/codevember-2026/1/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 1,
+      "image": "https://akella.github.io/codevember-2026/1/cover.jpg"
+    },
+    {
+      "creator": "vipin",
+      "title": "Fold",
+      "url": "https://codevember-26.vercel.app/days/01-fold/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 1,
+      "image": "https://codevember-26.vercel.app/thumbs/01.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Fold",
+      "url": "https://codevember-2026.vercel.app/01-fold/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/01-fold",
+      "day": 1,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-01-fold-initial.png"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "La feuille qui se replie",
+      "url": "https://drschizzo.github.io/Codevember/fold/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 1,
+      "image": "https://drschizzo.github.io/Codevember/home/fold-scene.jpg"
+    },
+    {
+      "creator": "frida",
+      "title": "Fold",
+      "url": "https://codevember.vercel.app/001/",
+      "source": "https://codevember.vercel.app/",
+      "day": 1,
+      "image": "https://codevember.vercel.app/thumbs/001.jpg"
+    },
+    {
+      "creator": "lars",
+      "title": "Fold",
+      "url": "https://larsberg.github.io/2026-codevember-01-fold/",
+      "source": "https://x.com/laserberg/status/2121748079296778530",
+      "day": 1,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121747851747131392/img/PpNDcewRsWbSAJlg.jpg?name=large"
+    },
+    {
+      "creator": "gregory",
+      "title": "Fold",
+      "url": "https://grgrdvrt.com/works/codevember-2026/01_fold/",
+      "source": "https://x.com/grgrdvrt/status/2117302342869475503",
+      "day": 1,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2117300988306477056/img/S6YLGti4GyVr-taY.jpg?name=large"
+    },
+    {
+      "creator": "aki",
+      "title": "Fold",
+      "url": "https://akirodic.com/p/codevember2026/#codevember=Fold",
+      "source": "https://x.com/akirodic/status/2120829111803297941",
+      "day": 1,
+      "image": "https://pbs.twimg.com/media/HW6yziwXUAAi6cA.jpg?name=large"
+    },
+    {
+      "creator": "shoreless",
+      "title": "Fold",
+      "url": "https://shoreless.github.io/codevember/2026/01/",
+      "source": "https://shoreless.github.io/codevember/",
+      "day": 1,
+      "image": "https://shoreless.github.io/codevember/assets/previews/01-folded.svg"
+    },
+    {
+      "creator": "felix",
+      "title": "Fold",
+      "url": "https://codevember-2026.felixmartinez.dev/01/",
+      "source": "https://codevember-2026.felixmartinez.dev/",
+      "day": 1,
+      "image": "https://codevember-2026.felixmartinez.dev/assets/thumbnail-640-C5B3mmOK.webp"
+    },
+    {
+      "creator": "mrdoob",
+      "title": "Shatter",
+      "url": "https://mrdoob.github.io/codevember-2026/02/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 2,
+      "image": "https://mrdoob.github.io/codevember-2026/files/02.webp"
+    },
+    {
+      "creator": "spite",
+      "title": "Shatter",
+      "url": "https://spite.github.io/codevember-2026/2/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 2,
+      "image": "https://spite.github.io/codevember-2026/screenshots/2.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Shatter",
+      "url": "https://adamwebsite.com/codevember/02-shatter/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 2,
+      "image": "https://adamwebsite.com/codevember/02-shatter.jpg"
+    },
+    {
+      "creator": "akella",
+      "title": "Shatter",
+      "url": "https://akella.github.io/codevember-2026/2/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 2,
+      "image": "https://akella.github.io/codevember-2026/2/cover.jpg"
+    },
+    {
+      "creator": "vipin",
+      "title": "Shatter",
+      "url": "https://codevember-26.vercel.app/days/02-shatter/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 2,
+      "image": "https://codevember-26.vercel.app/thumbs/02.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Shatter",
+      "url": "https://codevember-2026.vercel.app/02-shatter/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/02-shatter",
+      "day": 2,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-02-shatter-initial.png"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "Le verre brisé, refondu, soufflé, brisé",
+      "url": "https://drschizzo.github.io/Codevember/shatter/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 2,
+      "image": "https://drschizzo.github.io/Codevember/home/shatter-scene.jpg"
+    },
+    {
+      "creator": "frida",
+      "title": "Shatter",
+      "url": "https://codevember.vercel.app/002/",
+      "source": "https://codevember.vercel.app/",
+      "day": 2,
+      "image": "https://codevember.vercel.app/thumbs/002.jpg"
+    },
+    {
+      "creator": "lars",
+      "title": "Shatter",
+      "url": "https://larsberg.github.io/2026-codevember-02-shatter-drafting/",
+      "source": "https://x.com/laserberg/status/2121750165086405049",
+      "day": 2,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121749783144525824/img/LAbW0z_YTv9TD2ZH.jpg?name=large"
+    },
+    {
+      "creator": "gregory",
+      "title": "Shatter",
+      "url": "https://grgrdvrt.com/works/codevember-2026/02_shatter/",
+      "source": "https://x.com/grgrdvrt/status/2118017556820930910",
+      "day": 2,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2118017290570489856/img/dDclM5j2Vamlws8V.jpg?name=large"
+    },
+    {
+      "creator": "shoreless",
+      "title": "Shatter",
+      "url": "https://shoreless.github.io/codevember/2026/02/",
+      "source": "https://shoreless.github.io/codevember/",
+      "day": 2,
+      "image": "https://shoreless.github.io/codevember/assets/previews/02-golden-egg.jpg"
+    },
+    {
+      "creator": "felix",
+      "title": "Shatter",
+      "url": "https://codevember-2026.felixmartinez.dev/02/",
+      "source": "https://codevember-2026.felixmartinez.dev/",
+      "day": 2,
+      "image": "https://codevember-2026.felixmartinez.dev/assets/thumbnail-640-gvCLPrEp.webp"
+    },
+    {
+      "creator": "pwd",
+      "title": "Shatter",
+      "url": "https://dasprinzip.com/codevember2026/02-shatter.html",
+      "source": "https://x.com/_pwd_/status/2118718436436029452",
+      "day": 2,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2118715670791634944/img/cEqIlq55-SloN96J.jpg?name=large"
+    },
+    {
+      "creator": "cartesius",
+      "title": "Stained Glass Shatter",
+      "url": "https://play.cartesius.studio/shatter/",
+      "source": "https://x.com/CartesiusXYZ/status/2117376538165252432",
+      "day": 2,
+      "image": "https://play.cartesius.studio/img/og-shatter-glass.jpg"
+    },
+    {
+      "creator": "mrdoob",
+      "title": "Melt",
+      "url": "https://mrdoob.github.io/codevember-2026/03/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 3,
+      "image": "https://mrdoob.github.io/codevember-2026/files/03.webp"
+    },
+    {
+      "creator": "spite",
+      "title": "Melt",
+      "url": "https://spite.github.io/codevember-2026/3/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 3,
+      "image": "https://spite.github.io/codevember-2026/screenshots/3.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Melt",
+      "url": "https://adamwebsite.com/codevember/03-melt/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 3,
+      "image": "https://adamwebsite.com/codevember/03-melt.jpg"
+    },
+    {
+      "creator": "akella",
+      "title": "Melt",
+      "url": "https://akella.github.io/codevember-2026/3/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 3,
+      "image": "https://akella.github.io/codevember-2026/3/cover.jpg"
+    },
+    {
+      "creator": "vipin",
+      "title": "Melt",
+      "url": "https://codevember-26.vercel.app/days/03-melt/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 3,
+      "image": "https://codevember-26.vercel.app/thumbs/03.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Melt",
+      "url": "https://codevember-2026.vercel.app/03-melt/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/03-melt",
+      "day": 3,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-03-melt-initial.png"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "Le bain de bismuth",
+      "url": "https://drschizzo.github.io/Codevember/melt/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 3,
+      "image": "https://drschizzo.github.io/Codevember/home/melt-scene.jpg"
+    },
+    {
+      "creator": "frida",
+      "title": "Melt",
+      "url": "https://codevember.vercel.app/003/",
+      "source": "https://codevember.vercel.app/",
+      "day": 3,
+      "image": "https://codevember.vercel.app/thumbs/003.jpg"
+    },
+    {
+      "creator": "lars",
+      "title": "Melt",
+      "url": "https://larsberg.github.io/2026-codevember-03-melt/",
+      "source": "https://x.com/laserberg/status/2121751313818214450",
+      "day": 3,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121750798195359744/img/4dEqxN4BtJotfWmA.jpg?name=large"
+    },
+    {
+      "creator": "shoreless",
+      "title": "Melt",
+      "url": "https://shoreless.github.io/codevember/2026/03/",
+      "source": "https://shoreless.github.io/codevember/",
+      "day": 3,
+      "image": "https://shoreless.github.io/codevember/assets/previews/03-factory.jpg"
+    },
+    {
+      "creator": "felix",
+      "title": "Melt",
+      "url": "https://codevember-2026.felixmartinez.dev/03/",
+      "source": "https://codevember-2026.felixmartinez.dev/",
+      "day": 3,
+      "image": "https://codevember-2026.felixmartinez.dev/assets/thumbnail-640-DH4oOn41.webp"
+    },
+    {
+      "creator": "mrdoob",
+      "title": "Tangle",
+      "url": "https://mrdoob.github.io/codevember-2026/04/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 4,
+      "image": "https://mrdoob.github.io/codevember-2026/files/04.webp"
+    },
+    {
+      "creator": "spite",
+      "title": "Tangle",
+      "url": "https://spite.github.io/codevember-2026/4/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 4,
+      "image": "https://spite.github.io/codevember-2026/screenshots/4.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Tangle",
+      "url": "https://adamwebsite.com/codevember/04-tangle/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 4,
+      "image": "https://adamwebsite.com/codevember/04-tangle.jpg"
+    },
+    {
+      "creator": "akella",
+      "title": "Tangle",
+      "url": "https://akella.github.io/codevember-2026/4/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 4,
+      "image": "https://akella.github.io/codevember-2026/4/cover.jpg"
+    },
+    {
+      "creator": "theo",
+      "title": "Simulated Traffic Junction",
+      "url": "https://ttillberg.github.io/codevember-2026/04/",
+      "source": "https://ttillberg.github.io/codevember-2026/",
+      "day": 4,
+      "image": "https://ttillberg.github.io/codevember-2026/04/screengrab.png"
+    },
+    {
+      "creator": "vipin",
+      "title": "Tangle",
+      "url": "https://codevember-26.vercel.app/days/04-tangle/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 4,
+      "image": "https://codevember-26.vercel.app/thumbs/04.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Tangle",
+      "url": "https://codevember-2026.vercel.app/04-tangle/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/04-tangle",
+      "day": 4,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-04-tangle-initial.png"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "Le tour de trop",
+      "url": "https://drschizzo.github.io/Codevember/tangle/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 4,
+      "image": "https://drschizzo.github.io/Codevember/home/tangle-scene.jpg"
+    },
+    {
+      "creator": "lars",
+      "title": "Tangle",
+      "url": "https://larsberg.github.io/2026-codevember-04-tangle-drafting/",
+      "source": "https://x.com/laserberg/status/2121776762577146292",
+      "day": 4,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121773252045418496/img/eNOmVHuOoOi1GUum.jpg?name=large"
+    },
+    {
+      "creator": "gregory",
+      "title": "Tangle",
+      "url": "https://grgrdvrt.com/works/codevember-2026/04_tangle/",
+      "source": "https://x.com/grgrdvrt/status/2118030302627107188",
+      "day": 4,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2118029788698796033/img/aFucBfEJkdSoSBhc.jpg?name=large"
+    },
+    {
+      "creator": "shoreless",
+      "title": "Tangle",
+      "url": "https://shoreless.github.io/codevember/2026/04/",
+      "source": "https://shoreless.github.io/codevember/",
+      "day": 4,
+      "image": "https://shoreless.github.io/codevember/assets/previews/04-potato.jpg"
+    },
+    {
+      "creator": "eric",
+      "title": "Gyre",
+      "url": "https://www.ericlevin.dev/codevember/04/",
+      "source": "https://www.ericlevin.dev/codevember/",
+      "day": 4,
+      "image": "https://footage.ericrius1.workers.dev/codevember/981769bc1364f976/04-card.jpg"
+    },
+    {
+      "creator": "felix",
+      "title": "Tangle",
+      "url": "https://codevember-2026.felixmartinez.dev/04/",
+      "source": "https://codevember-2026.felixmartinez.dev/",
+      "day": 4,
+      "image": "https://codevember-2026.felixmartinez.dev/assets/thumbnail-640-CycYw0-9.webp"
+    },
+    {
+      "creator": "mrdoob",
+      "title": "Moss",
+      "url": "https://mrdoob.github.io/codevember-2026/05/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 5,
+      "image": "https://mrdoob.github.io/codevember-2026/files/05.webp"
+    },
+    {
+      "creator": "spite",
+      "title": "Moss",
+      "url": "https://spite.github.io/codevember-2026/5/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 5,
+      "image": "https://spite.github.io/codevember-2026/screenshots/5.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Moss",
+      "url": "https://adamwebsite.com/codevember/05-moss/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 5,
+      "image": "https://adamwebsite.com/codevember/05-moss.jpg"
+    },
+    {
+      "creator": "akella",
+      "title": "Moss",
+      "url": "https://akella.github.io/codevember-2026/5/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 5,
+      "image": "https://akella.github.io/codevember-2026/5/cover.jpg"
+    },
+    {
+      "creator": "theo",
+      "title": "Painting with Moss",
+      "url": "https://ttillberg.github.io/codevember-2026/05/",
+      "source": "https://ttillberg.github.io/codevember-2026/",
+      "day": 5,
+      "image": "https://ttillberg.github.io/codevember-2026/05/screengrab.png"
+    },
+    {
+      "creator": "vipin",
+      "title": "Moss",
+      "url": "https://codevember-26.vercel.app/days/05-moss/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 5,
+      "image": "https://codevember-26.vercel.app/thumbs/05.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Moss",
+      "url": "https://codevember-2026.vercel.app/05-moss/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/05-moss",
+      "day": 5,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-05-moss-initial.png"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "La reviviscence",
+      "url": "https://drschizzo.github.io/Codevember/moss/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 5,
+      "image": "https://drschizzo.github.io/Codevember/home/moss-scene.jpg"
+    },
+    {
+      "creator": "lars",
+      "title": "Moss",
+      "url": "https://larsberg.github.io/2026-codevember-05-moss/",
+      "source": "https://x.com/laserberg/status/2122044639494709325",
+      "day": 5,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122044495973765120/img/o_ZMxALxnFwMhPru.jpg?name=large"
+    },
+    {
+      "creator": "gregory",
+      "title": "Moss",
+      "url": "https://grgrdvrt.com/works/codevember-2026/05_moss/",
+      "source": "https://x.com/grgrdvrt/status/2118462864864497867",
+      "day": 5,
+      "image": "https://pbs.twimg.com/media/HWZI3GKX0AAWthA.jpg?name=large"
+    },
+    {
+      "creator": "loktar",
+      "title": "Moss",
+      "url": "https://loktar00.github.io/codevember/moss/",
+      "source": "https://x.com/loktar00",
+      "day": 5,
+      "image": "./covers/loktar.jpg"
+    },
+    {
+      "creator": "felix",
+      "title": "Moss",
+      "url": "https://codevember-2026.felixmartinez.dev/05/",
+      "source": "https://codevember-2026.felixmartinez.dev/",
+      "day": 5,
+      "image": "https://codevember-2026.felixmartinez.dev/assets/thumbnail-640-DiOxoPut.webp"
+    },
+    {
+      "creator": "mrdoob",
+      "title": "Orrery",
+      "url": "https://mrdoob.github.io/codevember-2026/06/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 6,
+      "image": "https://mrdoob.github.io/codevember-2026/files/06.webp"
+    },
+    {
+      "creator": "spite",
+      "title": "Orrery",
+      "url": "https://spite.github.io/codevember-2026/6/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 6,
+      "image": "https://spite.github.io/codevember-2026/screenshots/6.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Orrery",
+      "url": "https://adamwebsite.com/codevember/06-orrery/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 6,
+      "image": "https://adamwebsite.com/codevember/06-orrery.jpg"
+    },
+    {
+      "creator": "akella",
+      "title": "Orrery",
+      "url": "https://akella.github.io/codevember-2026/6/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 6,
+      "image": "https://akella.github.io/codevember-2026/6/cover.jpg"
+    },
+    {
+      "creator": "theo",
+      "title": "Candy Orrery",
+      "url": "https://ttillberg.github.io/codevember-2026/06/",
+      "source": "https://ttillberg.github.io/codevember-2026/",
+      "day": 6,
+      "image": "https://ttillberg.github.io/codevember-2026/06/screengrab.png"
+    },
+    {
+      "creator": "vipin",
+      "title": "Orrery",
+      "url": "https://codevember-26.vercel.app/days/06-orrery/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 6,
+      "image": "https://codevember-26.vercel.app/thumbs/06.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Orrery",
+      "url": "https://codevember-2026.vercel.app/06-orrery/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/06-orrery",
+      "day": 6,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-06-orrery-initial.png"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "La chorégraphie des astres",
+      "url": "https://drschizzo.github.io/Codevember/planetaire_v2/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 6,
+      "image": "https://drschizzo.github.io/Codevember/home/orrery-scene.jpg"
+    },
+    {
+      "creator": "gregory",
+      "title": "Orrery",
+      "url": "https://grgrdvrt.com/works/codevember-2026/06_orrery/",
+      "source": "https://x.com/grgrdvrt/status/2118734949561798749",
+      "day": 6,
+      "image": "https://pbs.twimg.com/media/HWdBQiOX0AAhO51.jpg?name=large"
+    },
+    {
+      "creator": "shoreless",
+      "title": "Orrery",
+      "url": "https://shoreless.github.io/codevember/2026/06/",
+      "source": "https://shoreless.github.io/codevember/",
+      "day": 6,
+      "image": "https://shoreless.github.io/codevember/assets/previews/06-orrery.jpg"
+    },
+    {
+      "creator": "felix",
+      "title": "Orrery",
+      "url": "https://codevember-2026.felixmartinez.dev/06/",
+      "source": "https://codevember-2026.felixmartinez.dev/",
+      "day": 6,
+      "image": "https://codevember-2026.felixmartinez.dev/assets/thumbnail-640-B7BG1oiO.webp"
+    },
+    {
+      "creator": "pwd",
+      "title": "Orrery",
+      "url": "https://dasprinzip.com/codevember2026/06-orrery.html",
+      "source": "https://x.com/_pwd_/status/2118796413098144122",
+      "day": 6,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2118796267186749440/img/r09ZzPtEDxgGSeQI.jpg?name=large"
+    },
+    {
+      "creator": "mrdoob",
+      "title": "Hollow",
+      "url": "https://mrdoob.github.io/codevember-2026/07/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 7,
+      "image": "https://mrdoob.github.io/codevember-2026/files/07.webp"
+    },
+    {
+      "creator": "spite",
+      "title": "Hollow",
+      "url": "https://spite.github.io/codevember-2026/7/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 7,
+      "image": "https://spite.github.io/codevember-2026/screenshots/7.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Hollow",
+      "url": "https://adamwebsite.com/codevember/07-hollow/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 7,
+      "image": "https://adamwebsite.com/codevember/07-hollow.jpg"
+    },
+    {
+      "creator": "akella",
+      "title": "Hollow",
+      "url": "https://akella.github.io/codevember-2026/7/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 7,
+      "image": "https://akella.github.io/codevember-2026/7/cover.jpg"
+    },
+    {
+      "creator": "theo",
+      "title": "Hollow Balloon",
+      "url": "https://ttillberg.github.io/codevember-2026/07/",
+      "source": "https://ttillberg.github.io/codevember-2026/",
+      "day": 7,
+      "image": "https://ttillberg.github.io/codevember-2026/07/screengrab.png"
+    },
+    {
+      "creator": "vipin",
+      "title": "Hollow",
+      "url": "https://codevember-26.vercel.app/days/07-hollow/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 7,
+      "image": "https://codevember-26.vercel.app/thumbs/07.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Hollow",
+      "url": "https://codevember-2026.vercel.app/07-hollow/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/07-hollow",
+      "day": 7,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-07-hollow-initial.png"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "La plongée sans fond",
+      "url": "https://drschizzo.github.io/Codevember/hollow/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 7,
+      "image": "https://drschizzo.github.io/Codevember/home/hollow-scene.jpg"
+    },
+    {
+      "creator": "lars",
+      "title": "Hollow",
+      "url": "https://larsberg.github.io/2026-codevember-07-hollow/",
+      "source": "https://x.com/laserberg/status/2122081830778159295",
+      "day": 7,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122081291839344640/img/lXERC4neNXojvc-L.jpg?name=large"
+    },
+    {
+      "creator": "gregory",
+      "title": "Hollow",
+      "url": "https://grgrdvrt.com/works/codevember-2026/07_hollow/",
+      "source": "https://x.com/grgrdvrt/status/2120529651890057698",
+      "day": 7,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120529146417717248/img/6cj7RUMc0hl5WpmM.jpg?name=large"
+    },
+    {
+      "creator": "aki",
+      "title": "Hollow",
+      "url": "https://akirodic.com/p/codevember2026/#codevember=Hollow",
+      "source": "https://x.com/akirodic/status/2121726567093076478",
+      "day": 7,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121723490495574016/img/cUZLm-3XuIQbBzyc.jpg?name=large"
+    },
+    {
+      "creator": "aki",
+      "title": "Hollow Materials Study",
+      "url": "https://akirodic.com/p/codevember2026/#codevember=HollowMaterials",
+      "source": "https://x.com/akirodic/status/2121729873781874831",
+      "day": 7,
+      "image": "./covers/aki7materials.jpg"
+    },
+    {
+      "creator": "felix",
+      "title": "Hollow",
+      "url": "https://codevember-2026.felixmartinez.dev/07/",
+      "source": "https://codevember-2026.felixmartinez.dev/",
+      "day": 7,
+      "image": "https://codevember-2026.felixmartinez.dev/assets/thumbnail-640-CX0bl5Lv.webp"
+    },
+    {
+      "creator": "pwd",
+      "title": "Hollow",
+      "url": "https://dasprinzip.com/codevember2026/07-hollow.html",
+      "source": "https://x.com/_pwd_/status/2119132873576120404",
+      "day": 7,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119132394221436928/img/-Z__9dgHzdFT2Na3.jpg?name=large"
+    },
+    {
+      "creator": "mrdoob",
+      "title": "Tesseract",
+      "url": "https://mrdoob.github.io/codevember-2026/08/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 8,
+      "image": "https://mrdoob.github.io/codevember-2026/files/08.webp"
+    },
+    {
+      "creator": "spite",
+      "title": "Tesseract",
+      "url": "https://spite.github.io/codevember-2026/8/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 8,
+      "image": "https://spite.github.io/codevember-2026/screenshots/8.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Tesseract",
+      "url": "https://adamwebsite.com/codevember/08-tesseract/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 8,
+      "image": "https://adamwebsite.com/codevember/08-tesseract.jpg"
+    },
+    {
+      "creator": "akella",
+      "title": "Tesseract",
+      "url": "https://akella.github.io/codevember-2026/8/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 8,
+      "image": "https://akella.github.io/codevember-2026/8/cover.jpg"
+    },
+    {
+      "creator": "theo",
+      "title": "Telescopic Hypercube",
+      "url": "https://ttillberg.github.io/codevember-2026/08/",
+      "source": "https://ttillberg.github.io/codevember-2026/",
+      "day": 8,
+      "image": "https://ttillberg.github.io/codevember-2026/08/screengrab.png"
+    },
+    {
+      "creator": "vipin",
+      "title": "Tesseract",
+      "url": "https://codevember-26.vercel.app/days/08-tesseract/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 8,
+      "image": "https://codevember-26.vercel.app/thumbs/08.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Tesseract",
+      "url": "https://codevember-2026.vercel.app/08-tesseract/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/08-tesseract",
+      "day": 8,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-08-tesseract-initial.png"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "L’écrin qui se replie en hypercube",
+      "url": "https://drschizzo.github.io/Codevember/tesseract/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 8,
+      "image": "https://drschizzo.github.io/Codevember/home/tesseract-scene.jpg"
+    },
+    {
+      "creator": "lars",
+      "title": "Tesseract",
+      "url": "https://larsberg.github.io/2026-codevember-08-tesseract/",
+      "source": "https://x.com/laserberg/status/2122085320112099387",
+      "day": 8,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122085237186285568/img/mQT_946-D7LRy7Jq.jpg?name=large"
+    },
+    {
+      "creator": "pwd",
+      "title": "Tesseract",
+      "url": "https://dasprinzip.com/codevember2026/08-tesseract.html",
+      "source": "https://x.com/_pwd_/status/2119417736556159194",
+      "day": 8,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119415452774400000/img/URXu1G6j-wXdoXTH.jpg?name=large"
+    },
+    {
+      "creator": "mrdoob",
+      "title": "Membrane",
+      "url": "https://mrdoob.github.io/codevember-2026/09/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 9,
+      "image": "https://mrdoob.github.io/codevember-2026/files/09.webp"
+    },
+    {
+      "creator": "spite",
+      "title": "Membrane",
+      "url": "https://spite.github.io/codevember-2026/9/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 9,
+      "image": "https://spite.github.io/codevember-2026/screenshots/9.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Membrane",
+      "url": "https://adamwebsite.com/codevember/09-membrane/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 9,
+      "image": "https://adamwebsite.com/codevember/09-membrane.jpg"
+    },
+    {
+      "creator": "akella",
+      "title": "Membrane",
+      "url": "https://akella.github.io/codevember-2026/9/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 9,
+      "image": "https://akella.github.io/codevember-2026/9/cover.jpg"
+    },
+    {
+      "creator": "theo",
+      "title": "Peel Me Not",
+      "url": "https://ttillberg.github.io/codevember-2026/09/",
+      "source": "https://ttillberg.github.io/codevember-2026/",
+      "day": 9,
+      "image": "https://ttillberg.github.io/codevember-2026/09/screengrab.png"
+    },
+    {
+      "creator": "vipin",
+      "title": "Membrane",
+      "url": "https://codevember-26.vercel.app/days/09-membrane/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 9,
+      "image": "https://codevember-26.vercel.app/thumbs/09.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Membrane",
+      "url": "https://codevember-2026.vercel.app/09-membrane/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/09-membrane",
+      "day": 9,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-09-membrane-initial.png"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "L’éclosion sans fin",
+      "url": "https://drschizzo.github.io/Codevember/membrane/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 9,
+      "image": "https://drschizzo.github.io/Codevember/home/membrane-scene.jpg"
+    },
+    {
+      "creator": "eric",
+      "title": "Membrane",
+      "url": "https://www.ericlevin.dev/codevember/09/",
+      "source": "https://www.ericlevin.dev/codevember/",
+      "day": 9,
+      "image": "https://footage.ericrius1.workers.dev/codevember/870906231b106494/09-card.jpg"
+    },
+    {
+      "creator": "felix",
+      "title": "Membrane",
+      "url": "https://codevember-2026.felixmartinez.dev/09/",
+      "source": "https://codevember-2026.felixmartinez.dev/",
+      "day": 9,
+      "image": "https://codevember-2026.felixmartinez.dev/assets/thumbnail-640-uffWqt1b.webp"
+    },
+    {
+      "creator": "pwd",
+      "title": "Membrane",
+      "url": "https://dasprinzip.com/codevember2026/09-membrane.html",
+      "source": "https://x.com/_pwd_/status/2119898654576103442",
+      "day": 9,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119898158373183488/img/8sKNwclf0LKawGQP.jpg?name=large"
+    },
+    {
+      "creator": "mrdoob",
+      "title": "Caustic",
+      "url": "https://mrdoob.github.io/codevember-2026/10/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 10,
+      "image": "https://mrdoob.github.io/codevember-2026/files/10.webp"
+    },
+    {
+      "creator": "spite",
+      "title": "Caustic",
+      "url": "https://spite.github.io/codevember-2026/10/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 10,
+      "image": "https://spite.github.io/codevember-2026/screenshots/10.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Caustic",
+      "url": "https://adamwebsite.com/codevember/10-caustic/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 10,
+      "image": "https://adamwebsite.com/codevember/10-caustic.jpg"
+    },
+    {
+      "creator": "akella",
+      "title": "Caustic",
+      "url": "https://akella.github.io/codevember-2026/10/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 10,
+      "image": "https://akella.github.io/codevember-2026/10/cover.jpg"
+    },
+    {
+      "creator": "vipin",
+      "title": "Caustic",
+      "url": "https://codevember-26.vercel.app/days/10-caustic/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 10,
+      "image": "https://codevember-26.vercel.app/thumbs/10.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Caustic",
+      "url": "https://codevember-2026.vercel.app/10-caustic/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/10-caustic",
+      "day": 10,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-10-caustic-initial.png"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "Le foyer des ondes",
+      "url": "https://drschizzo.github.io/Codevember/caustic/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 10,
+      "image": "https://drschizzo.github.io/Codevember/home/caustic-scene.jpg"
+    },
+    {
+      "creator": "gregory",
+      "title": "Caustic",
+      "url": "https://grgrdvrt.com/works/codevember-2026/10_caustics/",
+      "source": "https://x.com/grgrdvrt/status/2120434116651041190",
+      "day": 10,
+      "image": "https://pbs.twimg.com/media/HW1K1BfWgAA2rFT.jpg?name=large"
+    },
+    {
+      "creator": "eric",
+      "title": "Caustics",
+      "url": "https://www.ericlevin.dev/codevember/caustics/",
+      "source": "https://www.ericlevin.dev/codevember/",
+      "day": 10,
+      "image": "https://www.ericlevin.dev/codevember/caustics/assets/splash/caustics-wide.webp"
+    },
+    {
+      "creator": "pwd",
+      "title": "Caustic",
+      "url": "https://dasprinzip.com/codevember2026/10-caustic.html",
+      "source": "https://x.com/_pwd_/status/2120170848006836492",
+      "day": 10,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120170004045832193/img/AtAomO4cmicKp9H_.jpg?name=large"
+    },
+    {
+      "creator": "henk",
+      "title": "Caustic WebXR Port",
+      "url": "https://www.beemsoft.nl/webxr/src/demo/caustic/index.html",
+      "source": "https://x.com/hpbeem/status/2121279565595377920",
+      "day": 10,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121278904073621504/img/rzM_kIaUSavv2Das.jpg?name=large"
+    },
+    {
+      "creator": "mrdoob",
+      "title": "Rust",
+      "url": "https://mrdoob.github.io/codevember-2026/11/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 11,
+      "image": "https://mrdoob.github.io/codevember-2026/files/11.webp"
+    },
+    {
+      "creator": "spite",
+      "title": "Rust",
+      "url": "https://spite.github.io/codevember-2026/11/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 11,
+      "image": "https://spite.github.io/codevember-2026/screenshots/11.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Rust",
+      "url": "https://adamwebsite.com/codevember/11-rust/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 11,
+      "image": "https://adamwebsite.com/codevember/11-rust.jpg"
+    },
+    {
+      "creator": "vipin",
+      "title": "Rust",
+      "url": "https://codevember-26.vercel.app/days/11-rust/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 11,
+      "image": "https://codevember-26.vercel.app/thumbs/11.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Rust",
+      "url": "https://codevember-2026.vercel.app/11-rust/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/11-rust",
+      "day": 11,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-11-rust-initial.png"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "La remise à nu",
+      "url": "https://drschizzo.github.io/Codevember/rust/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 11,
+      "image": "https://drschizzo.github.io/Codevember/home/rust-scene.jpg"
+    },
+    {
+      "creator": "aki",
+      "title": "Rust",
+      "url": "https://akirodic.com/p/codevember2026/#codevember=Rust",
+      "source": "https://akirodic.com/p/codevember2026/",
+      "day": 11,
+      "image": "./covers/aki11.jpg"
+    },
+    {
+      "creator": "tino",
+      "title": "Rust Editor",
+      "url": "https://rust.ohzi.dev/",
+      "source": "https://x.com/tinotibaldo/status/2120835230877540792",
+      "day": 11,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120835180210409472/img/TjH5D46uD-HNSWRV.jpg?name=large"
+    },
+    {
+      "creator": "pwd",
+      "title": "Rust",
+      "url": "https://dasprinzip.com/codevember2026/11-rust.html",
+      "source": "https://x.com/_pwd_/status/2120473696741515689",
+      "day": 11,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120472611918368768/img/A0sBMBSvL-Q9im77.jpg?name=large"
+    },
+    {
+      "creator": "mrdoob",
+      "title": "Feather",
+      "url": "https://mrdoob.github.io/codevember-2026/12/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 12,
+      "image": "https://mrdoob.github.io/codevember-2026/files/12.webp"
+    },
+    {
+      "creator": "spite",
+      "title": "Feather",
+      "url": "https://spite.github.io/codevember-2026/12/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 12,
+      "image": "https://spite.github.io/codevember-2026/screenshots/12.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Feather",
+      "url": "https://adamwebsite.com/codevember/12-feather/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 12,
+      "image": "https://adamwebsite.com/codevember/12-feather.jpg"
+    },
+    {
+      "creator": "theo",
+      "title": "Iridescent Hummingbird",
+      "url": "https://ttillberg.github.io/codevember-2026/12/",
+      "source": "https://ttillberg.github.io/codevember-2026/",
+      "day": 12,
+      "image": "https://ttillberg.github.io/codevember-2026/12/screengrab.png"
+    },
+    {
+      "creator": "vipin",
+      "title": "Feather",
+      "url": "https://codevember-26.vercel.app/days/12-feather/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 12,
+      "image": "https://codevember-26.vercel.app/thumbs/12.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Feather",
+      "url": "https://codevember-2026.vercel.app/12-feather/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/12-feather",
+      "day": 12,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-12-feather-initial.png"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "La plume en tuyau",
+      "url": "https://drschizzo.github.io/Codevember/feather/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 12,
+      "image": "https://drschizzo.github.io/Codevember/home/feather-scene.jpg"
+    },
+    {
+      "creator": "gregory",
+      "title": "Feather",
+      "url": "https://grgrdvrt.com/works/codevember-2026/12_feather/",
+      "source": "https://x.com/grgrdvrt/status/2120881818094444762",
+      "day": 12,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120880178603732992/img/rizkpVpzpfRDg0QY.jpg?name=large"
+    },
+    {
+      "creator": "greg",
+      "title": "Feather — Birds of Northern Colorado",
+      "url": "https://gregpuzzles1.github.io/codevember-2026/12/",
+      "source": "https://github.com/gregpuzzles1/codevember-2026/tree/HEAD/12",
+      "day": 12,
+      "image": "https://raw.githubusercontent.com/gregpuzzles1/codevember-2026/HEAD/12/social-preview.png"
+    },
+    {
+      "creator": "aki",
+      "title": "Feather",
+      "url": "https://akirodic.com/p/codevember2026/#codevember=Feather",
+      "source": "https://x.com/akirodic/status/2120988857390797030",
+      "day": 12,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120988658345922560/img/_wbxsPQ5efZys_-S.jpg?name=large"
+    },
+    {
+      "creator": "tino",
+      "title": "Feather Editor",
+      "url": "https://rust.ohzi.dev/",
+      "source": "https://x.com/tinotibaldo/status/2120962583452864987",
+      "day": 12,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120962372919570432/img/PZREOuP_3p5z9YBg.jpg?name=large"
+    },
+    {
+      "creator": "tino",
+      "title": "Three in Feathers",
+      "url": "https://x.com/tinotibaldo/status/2120932986267058484",
+      "source": "https://x.com/tinotibaldo/status/2120932986267058484",
+      "day": 12,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120932828149862400/img/E_9iwsY3vtkLCGEI.jpg?name=large"
+    },
+    {
+      "creator": "pwd",
+      "title": "Feather",
+      "url": "https://dasprinzip.com/codevember2026/12-feather.html",
+      "source": "https://x.com/_pwd_/status/2120886300907642967",
+      "day": 12,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120885610948780032/img/-qAwmDv44Jn-3u7K.jpg?name=large"
+    },
+    {
+      "creator": "magpie",
+      "title": "Magpie Window Sill",
+      "url": "https://hard2forgetme.github.io/magpie-window-sill/",
+      "source": "https://github.com/hard2forgetme/magpie-window-sill",
+      "day": 12,
+      "image": "https://raw.githubusercontent.com/hard2forgetme/magpie-window-sill/HEAD/src/title-magpie.webp"
+    },
+    {
+      "creator": "mrdoob",
+      "title": "Labyrinth",
+      "url": "https://mrdoob.github.io/codevember-2026/13/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 13,
+      "image": "https://mrdoob.github.io/codevember-2026/files/13.webp"
+    },
+    {
+      "creator": "spite",
+      "title": "Labyrinth",
+      "url": "https://spite.github.io/codevember-2026/13/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 13,
+      "image": "https://spite.github.io/codevember-2026/screenshots/13.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Labyrinth",
+      "url": "https://adamwebsite.com/codevember/13-labyrinth/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 13,
+      "image": "https://adamwebsite.com/codevember/13-labyrinth.jpg"
+    },
+    {
+      "creator": "vipin",
+      "title": "Labyrinth",
+      "url": "https://codevember-26.vercel.app/days/13-labyrinth/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 13,
+      "image": "https://codevember-26.vercel.app/thumbs/13.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Labyrinth",
+      "url": "https://codevember-2026.vercel.app/13-labyrinth/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/13-labyrinth",
+      "day": 13,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-13-labyrinth-initial.png"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "Le dédale qu’on retourne",
+      "url": "https://drschizzo.github.io/Codevember/labyrinth/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 13,
+      "image": "https://drschizzo.github.io/Codevember/home/labyrinth-scene.jpg"
+    },
+    {
+      "creator": "gregory",
+      "title": "Labyrinth",
+      "url": "https://x.com/grgrdvrt/status/2121503378836464092",
+      "source": "https://x.com/grgrdvrt/status/2121503378836464092",
+      "day": 13,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121502665527951360/img/vxi2hRAeidXEOkOu.jpg?name=large"
+    },
+    {
+      "creator": "greg",
+      "title": "Labyrinth — A Garden for Getting Lost",
+      "url": "https://gregpuzzles1.github.io/codevember-2026/13/",
+      "source": "https://github.com/gregpuzzles1/codevember-2026/tree/HEAD/13",
+      "day": 13,
+      "image": "https://raw.githubusercontent.com/gregpuzzles1/codevember-2026/HEAD/13/social-preview.jpg"
+    },
+    {
+      "creator": "tino",
+      "title": "Invisible Space Labyrinth",
+      "url": "https://x.com/tinotibaldo/status/2121578085086884238",
+      "source": "https://x.com/tinotibaldo/status/2121578085086884238",
+      "day": 13,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121577920925749248/img/BUY8Hbvutecddimw.jpg?name=large"
+    },
+    {
+      "creator": "tino",
+      "title": "Zero-gravity Labyrinth",
+      "url": "https://x.com/tinotibaldo/status/2121401582549954578",
+      "source": "https://x.com/tinotibaldo/status/2121401582549954578",
+      "day": 13,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121401416761606144/img/vENcA6NDRpBTde8y.jpg?name=large"
+    },
+    {
+      "creator": "niyati",
+      "title": "Labyrinth",
+      "url": "https://niyati82.github.io/codevember-2026/day-13-labyrinth/",
+      "source": "https://github.com/Niyati82/codevember-2026/tree/main/day-13-labyrinth",
+      "day": 13,
+      "image": "./covers/niyati13.jpg"
+    },
+    {
+      "creator": "pwd",
+      "title": "Labyrinth",
+      "url": "https://dasprinzip.com/codevember2026/13-labyrinth.html",
+      "source": "https://x.com/_pwd_/status/2121236333918093388",
+      "day": 13,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121235616713109504/img/YH0Ta_4vNLWH3tdW.jpg?name=large"
+    },
+    {
+      "creator": "mrdoob",
+      "title": "Tension",
+      "url": "https://mrdoob.github.io/codevember-2026/14/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 14,
+      "image": "https://mrdoob.github.io/codevember-2026/files/14.webp"
+    },
+    {
+      "creator": "spite",
+      "title": "Tension",
+      "url": "https://spite.github.io/codevember-2026/14/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 14,
+      "image": "https://spite.github.io/codevember-2026/screenshots/14.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Spider Web",
+      "url": "https://adamwebsite.com/codevember/14-tension/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 14,
+      "image": "https://adamwebsite.com/codevember/14-tension.jpg"
+    },
+    {
+      "creator": "theo",
+      "title": "One-string Instrument",
+      "url": "https://ttillberg.github.io/codevember-2026/14/",
+      "source": "https://ttillberg.github.io/codevember-2026/",
+      "day": 14,
+      "image": "https://ttillberg.github.io/codevember-2026/14/screengrab.png"
+    },
+    {
+      "creator": "vipin",
+      "title": "Tension",
+      "url": "https://codevember-26.vercel.app/days/14-tension/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 14,
+      "image": "https://codevember-26.vercel.app/thumbs/14.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Tension",
+      "url": "https://codevember-2026.vercel.app/14-tension/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/14-tension",
+      "day": 14,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-14-tension-initial.png"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "Ce qui tient ne pousse pas",
+      "url": "https://drschizzo.github.io/Codevember/tension/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 14,
+      "image": "https://drschizzo.github.io/Codevember/home/tension-scene.jpg"
+    },
+    {
+      "creator": "tino",
+      "title": "Rope and Wrapped Forms",
+      "url": "https://x.com/tinotibaldo/status/2121677741825347908",
+      "source": "https://x.com/tinotibaldo/status/2121677741825347908",
+      "day": 14,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121677177506676736/img/15Zv_ROJCsUhPhfi.jpg?name=large"
+    },
+    {
+      "creator": "niyati",
+      "title": "Tension",
+      "url": "https://niyati82.github.io/codevember-2026/day-14-tension/",
+      "source": "https://github.com/Niyati82/codevember-2026/tree/main/day-14-tension",
+      "day": 14,
+      "image": "./covers/niyati14.jpg"
+    },
+    {
+      "creator": "pwd",
+      "title": "Tension",
+      "url": "https://dasprinzip.com/codevember2026/14-tension.html",
+      "source": "https://x.com/_pwd_/status/2121602351434015044",
+      "day": 14,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121601953889181696/img/X5idPumQ5KUrEpA-.jpg?name=large"
+    },
+    {
+      "creator": "spite",
+      "title": "Holographic Trading Card",
+      "url": "https://spite.github.io/codevember-2026/15/",
+      "source": "https://github.com/spite/codevember-2026/tree/main/15",
+      "day": 15,
+      "image": "./covers/spite15.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Desert Oasis",
+      "url": "https://adamwebsite.com/codevember/15-mirage/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 15,
+      "image": "https://adamwebsite.com/codevember/15-mirage.jpg"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "L’objet qui n’est pas là",
+      "url": "https://drschizzo.github.io/Codevember/mirage/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 15,
+      "image": "https://drschizzo.github.io/Codevember/home/mirage-scene.jpg"
+    },
+    {
+      "creator": "greg",
+      "title": "Mirage — A Little Desert Illusion",
+      "url": "https://gregpuzzles1.github.io/codevember-2026/15/",
+      "source": "https://github.com/gregpuzzles1/codevember-2026/tree/HEAD/15",
+      "day": 15,
+      "image": "https://raw.githubusercontent.com/gregpuzzles1/codevember-2026/HEAD/15/social-preview.png"
+    },
+    {
+      "creator": "tino",
+      "title": "Miraged Jeddah Tower",
+      "url": "https://x.com/tinotibaldo/status/2122098124940288488",
+      "source": "https://x.com/tinotibaldo/status/2122098124940288488",
+      "day": 15,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122097695330308096/img/9kq71Vtg69QC7UGo.jpg?name=large"
+    },
+    {
+      "creator": "pwd",
+      "title": "Mirage",
+      "url": "https://dasprinzip.com/codevember2026/15-mirage.html",
+      "source": "https://x.com/_pwd_/status/2121998674742125044",
+      "day": 15,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121998394818285568/img/ncQtyrRWk3SzBmGx.jpg?name=large"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "Le relais",
+      "url": "https://drschizzo.github.io/Codevember/spore/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 16,
+      "image": "https://drschizzo.github.io/Codevember/home/spore-scene.jpg"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "Le ressac",
+      "url": "https://drschizzo.github.io/Codevember/kelp/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 17,
+      "image": "https://drschizzo.github.io/Codevember/home/kelp-scene.jpg"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "L’équilibre renversé",
+      "url": "https://drschizzo.github.io/Codevember/pendulum/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 18,
+      "image": "https://drschizzo.github.io/Codevember/home/pendulum-scene.jpg"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "Un paysage d’une heure",
+      "url": "https://drschizzo.github.io/Codevember/erosion/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 19,
+      "image": "https://drschizzo.github.io/Codevember/home/erosion-scene.jpg"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "La lumière filée",
+      "url": "https://drschizzo.github.io/Codevember/cocoon/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 20,
+      "image": "https://drschizzo.github.io/Codevember/home/cocoon-scene.jpg"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "Une tempête dans une tasse de thé",
+      "url": "https://drschizzo.github.io/Codevember/bolt/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 21,
+      "image": "https://drschizzo.github.io/Codevember/home/bolt-scene.jpg"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "Le miroir en retard",
+      "url": "https://drschizzo.github.io/Codevember/echo/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 22,
+      "image": "https://drschizzo.github.io/Codevember/home/echo-scene.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Calibration Specimen",
+      "url": "https://codevember-2026.vercel.app/00-specimen/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026",
+      "theme": "Specimen",
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-00-specimen-initial.png"
+    },
+    {
+      "creator": "tiago",
+      "title": "Pigment",
+      "url": "https://x.com/tgcnzn/status/2119123639706796487",
+      "source": "https://x.com/tgcnzn/status/2119123639706796487",
+      "theme": "Pigment",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119123406725496832/img/Viii2k-0dsGJCeAZ.jpg?name=large"
+    },
+    {
+      "creator": "tiago",
+      "title": "Pocket Garden",
+      "url": "https://tgcnzn.github.io/labs/pocket-garden/",
+      "source": "https://x.com/tgcnzn/status/2120934606065086913",
+      "theme": "Pocket Garden",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120934502239293440/img/bfj8I0h4fJWp_g5T.jpg?name=large"
+    },
+    {
+      "creator": "tiago",
+      "title": "Smoke Harp",
+      "url": "https://tgcnzn.github.io/labs/smoke-harp/",
+      "source": "https://x.com/tgcnzn/status/2118543836620394809",
+      "theme": "Smoke Harp",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2118543242366959616/img/NVQZxKq6cBgeOP3J.jpg?name=large"
+    }
+  ],
+  "updated": "2026-11-16"
+}

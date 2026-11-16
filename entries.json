@@ -1,0 +1,167 @@
+{
+  "works": [
+    {
+      "creator": "tino",
+      "title": "Miraged Jeddah Tower",
+      "url": "https://x.com/tinotibaldo/status/2122098124940288488",
+      "source": "https://x.com/tinotibaldo/status/2122098124940288488",
+      "day": 15,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122097695330308096/img/9kq71Vtg69QC7UGo.jpg?name=large"
+    },
+    {
+      "creator": "tino",
+      "title": "Rope and Wrapped Forms",
+      "url": "https://x.com/tinotibaldo/status/2121677741825347908",
+      "source": "https://x.com/tinotibaldo/status/2121677741825347908",
+      "day": 14,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121677177506676736/img/15Zv_ROJCsUhPhfi.jpg?name=large"
+    },
+    {
+      "creator": "tino",
+      "title": "Invisible Space Labyrinth",
+      "url": "https://x.com/tinotibaldo/status/2121578085086884238",
+      "source": "https://x.com/tinotibaldo/status/2121578085086884238",
+      "day": 13,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121577920925749248/img/BUY8Hbvutecddimw.jpg?name=large"
+    },
+    {
+      "creator": "tino",
+      "title": "Zero-gravity Labyrinth",
+      "url": "https://x.com/tinotibaldo/status/2121401582549954578",
+      "source": "https://x.com/tinotibaldo/status/2121401582549954578",
+      "day": 13,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121401416761606144/img/vENcA6NDRpBTde8y.jpg?name=large"
+    },
+    {
+      "creator": "tino",
+      "title": "Three in Feathers",
+      "url": "https://x.com/tinotibaldo/status/2120932986267058484",
+      "source": "https://x.com/tinotibaldo/status/2120932986267058484",
+      "day": 12,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120932828149862400/img/E_9iwsY3vtkLCGEI.jpg?name=large"
+    },
+    {
+      "creator": "tino",
+      "title": "Feather Editor",
+      "url": "https://rust.ohzi.dev/",
+      "source": "https://x.com/tinotibaldo/status/2120962583452864987",
+      "day": 12,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120962372919570432/img/PZREOuP_3p5z9YBg.jpg?name=large"
+    },
+    {
+      "creator": "tino",
+      "title": "Rust Editor",
+      "url": "https://rust.ohzi.dev/",
+      "source": "https://x.com/tinotibaldo/status/2120835230877540792",
+      "day": 11,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120835180210409472/img/TjH5D46uD-HNSWRV.jpg?name=large"
+    },
+    {
+      "creator": "tiago",
+      "title": "Pocket Garden",
+      "url": "https://tgcnzn.github.io/labs/pocket-garden/",
+      "source": "https://x.com/tgcnzn/status/2120934606065086913",
+      "theme": "Pocket Garden",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120934502239293440/img/bfj8I0h4fJWp_g5T.jpg?name=large"
+    },
+    {
+      "creator": "tiago",
+      "title": "Pigment",
+      "url": "https://x.com/tgcnzn/status/2119123639706796487",
+      "source": "https://x.com/tgcnzn/status/2119123639706796487",
+      "theme": "Pigment",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119123406725496832/img/Viii2k-0dsGJCeAZ.jpg?name=large"
+    },
+    {
+      "creator": "tiago",
+      "title": "Smoke Harp",
+      "url": "https://tgcnzn.github.io/labs/smoke-harp/",
+      "source": "https://x.com/tgcnzn/status/2118543836620394809",
+      "theme": "Smoke Harp",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2118543242366959616/img/NVQZxKq6cBgeOP3J.jpg?name=large"
+    },
+    {
+      "creator": "henk",
+      "title": "Caustic WebXR Port",
+      "url": "https://www.beemsoft.nl/webxr/src/demo/caustic/index.html",
+      "source": "https://x.com/hpbeem/status/2121279565595377920",
+      "day": 10,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121278904073621504/img/rzM_kIaUSavv2Das.jpg?name=large"
+    },
+    {
+      "creator": "magpie",
+      "day": 12,
+      "title": "Magpie Window Sill",
+      "url": "https://hard2forgetme.github.io/magpie-window-sill/",
+      "image": "https://raw.githubusercontent.com/hard2forgetme/magpie-window-sill/HEAD/src/title-magpie.webp"
+    },
+    {
+      "creator": "andrew",
+      "theme": "Specimen",
+      "title": "Calibration Specimen",
+      "url": "https://codevember-2026.vercel.app/00-specimen/",
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-00-specimen-initial.png"
+    },
+    {
+      "creator": "loktar",
+      "day": 5,
+      "title": "Moss",
+      "url": "https://loktar00.github.io/codevember/moss/",
+      "source": "https://x.com/loktar00",
+      "image": "./covers/loktar.jpg"
+    },
+    {
+      "creator": "niyati",
+      "day": 13,
+      "url": "https://niyati82.github.io/codevember-2026/day-13-labyrinth/",
+      "source": "https://github.com/Niyati82/codevember-2026/tree/main/day-13-labyrinth",
+      "image": "./covers/niyati13.jpg"
+    },
+    {
+      "creator": "niyati",
+      "day": 14,
+      "url": "https://niyati82.github.io/codevember-2026/day-14-tension/",
+      "source": "https://github.com/Niyati82/codevember-2026/tree/main/day-14-tension",
+      "image": "./covers/niyati14.jpg"
+    },
+    {
+      "creator": "cartesius",
+      "day": 2,
+      "title": "Stained Glass Shatter",
+      "url": "https://play.cartesius.studio/shatter/",
+      "source": "https://x.com/CartesiusXYZ/status/2117376538165252432",
+      "image": "https://play.cartesius.studio/img/og-shatter-glass.jpg"
+    },
+    {
+      "creator": "spite",
+      "day": 15,
+      "title": "Holographic Trading Card",
+      "url": "https://spite.github.io/codevember-2026/15/",
+      "source": "https://github.com/spite/codevember-2026/tree/main/15",
+      "image": "./covers/spite15.jpg"
+    },
+    {
+      "creator": "aki",
+      "day": 7,
+      "title": "Hollow Materials Study",
+      "url": "https://akirodic.com/p/codevember2026/#codevember=HollowMaterials",
+      "source": "https://x.com/akirodic/status/2121729873781874831",
+      "image": "./covers/aki7materials.jpg"
+    },
+    {
+      "creator": "aki",
+      "day": 11,
+      "title": "Rust",
+      "url": "https://akirodic.com/p/codevember2026/#codevember=Rust",
+      "source": "https://akirodic.com/p/codevember2026/",
+      "image": "./covers/aki11.jpg"
+    }
+  ],
+  "creators": {
+    "cartesius": {
+      "name": "Cartesius",
+      "handle": "CartesiusXYZ",
+      "url": "https://x.com/CartesiusXYZ"
+    }
+  }
+}

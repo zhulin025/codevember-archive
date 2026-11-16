@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#111012">
+  <meta name="description" content="Codevember 2026 社区作品档案。按每日主题查找公开的创意编程实验。">
+  <title>Codevember 2026 · 社区作品档案</title>
+  <link rel="icon" href="data:,">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="./" aria-label="Codevember 2026 首页"><span class="brand-mark" aria-hidden="true">✳</span><span>codevember<span class="brand-year"> / 26</span></span></a>
+      <nav aria-label="网站导航">
+        <a class="nav-current" href="#gallery">作品索引</a>
+        <button class="sources-trigger" type="button">关于档案 <span aria-hidden="true">↗</span></button>
+      </nav>
+    </div>
+  </header>
+  <main class="wrap">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> COMMUNITY ARCHIVE <span class="eyebrow-divider">/</span> NOV 2026</p>
+        <h1 id="hero-title">Codevember <span>2026<span class="title-dot">.</span></span></h1>
+        <p class="intro">30 个主题，一整月的创意编程实验。<br>循着每日提示词，看看不同作者写出了怎样的作品。</p>
+        <a class="primary" href="#gallery">浏览作品 <span aria-hidden="true">↓</span></a>
+      </div>
+      <a class="feature" href="https://spite.github.io/codevember-2026/4/" target="_blank" rel="noopener noreferrer">
+        <div class="feature-image">
+          <picture>
+            <source media="(min-width: 761px)" srcset="https://spite.github.io/codevember-2026/screenshots/4-social.jpg">
+            <img src="https://spite.github.io/codevember-2026/screenshots/4.jpg" alt="泛着蓝紫色金属光泽的缠绕曲面" fetchpriority="high">
+          </picture>
+          <span class="feature-label"><span aria-hidden="true">✳</span> 精选作品</span>
+          <span class="feature-arrow" aria-hidden="true">↗</span>
+        </div>
+        <div class="feature-caption"><span><b>DAY 04</b><i></i>Tangle</span><span>@thespite</span></div>
+      </a>
+    </section>
+
+    <section class="stats" aria-label="收录统计">
+      <div><strong id="work-count">–</strong><span>件作品</span></div>
+      <div><strong id="author-count">–</strong><span>位创作者</span></div>
+      <div><strong>30</strong><span>个每日主题</span></div>
+      <p id="updated" class="update-time"></p>
+    </section>
+
+    <section id="gallery" class="gallery" aria-labelledby="gallery-heading">
+      <div class="gallery-top">
+        <div>
+          <p class="eyebrow gallery-eyebrow"><span aria-hidden="true">✳</span> THE INDEX</p>
+          <h2 id="gallery-heading">作品索引</h2>
+        </div>
+        <form class="filters" role="search" autocomplete="off">
+          <label class="search-box">
+            <span class="magnifier" aria-hidden="true"></span>
+            <input id="search" type="search" placeholder="搜索作品、作者或主题…" aria-label="搜索作品、作者或主题">
+          </label>
+          <div class="select-box">
+            <select id="author" aria-label="按作者筛选"><option value="">全部作者</option></select>
+          </div>
+        </form>
+      </div>
+      <div class="gallery-layout">
+        <aside class="theme-sidebar" aria-label="按主题浏览">
+          <div class="theme-header"><span>每日主题</span><span>01–30</span></div>
+          <nav id="themes" class="theme-list" aria-label="主题列表"></nav>
+        </aside>
+        <div class="results">
+          <p id="announcement" class="sr-only" role="status"></p>
+          <div id="works"><p class="empty">正在读取作品档案…</p></div>
+          <noscript><p class="empty">请开启 JavaScript 以浏览作品档案。</p></noscript>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <span class="brand"><span class="brand-mark" aria-hidden="true">✳</span> Codevember 2026</span>
+      <button class="sources-trigger" type="button">查看收录来源 <span aria-hidden="true">↗</span></button>
+    </div>
+  </footer>
+  <dialog id="sources" aria-labelledby="sources-title">
+    <div class="dialog-head">
+      <h2 id="sources-title">关于档案</h2>
+      <form method="dialog"><button class="dialog-close" aria-label="关闭">×</button></form>
+    </div>
+    <p>这是 Codevember 2026 的社区作品档案。每日主题沿用 @thespite 分享的 30 条提示词。作品按公开可查的作者画廊、仓库和发布帖收录，封面来自对应作品。挑战没有统一提交入口，档案会随新发现更新。</p>
+    <a class="prompt-link" href="https://x.com/thespite/status/2116974998212772095" target="_blank" rel="noopener noreferrer">查看原始提示词 ↗</a>
+    <h3>创作者与来源</h3>
+    <ul id="source-list"></ul>
+  </dialog>
+</body>
+</html>
