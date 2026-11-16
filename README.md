@@ -34,6 +34,6 @@ python3 collect.py --check-images
 ## 线上展示与同步
 
 线上站点为 [coolcode.liuwa.xyz](https://coolcode.liuwa.xyz/)。Vercel 从 GitHub 的 `main` 分支构建静态站点。
-采集在本机先写入并校验数据，有变化时再提交并推送到 GitHub。
+每天 22:00（北京时间）在本机运行采集。数据先写入本地并校验，有变化时再提交并推送到 GitHub。
 
 运行 `node scripts/build.mjs` 可在本机生成 `dist/`。构建产物包含网页、作品索引和本地封面。
