@@ -155,6 +155,102 @@
       "url": "https://akirodic.com/p/codevember2026/#codevember=Rust",
       "source": "https://akirodic.com/p/codevember2026/",
       "image": "./covers/aki11.jpg"
+    },
+    {
+      "creator": "diego",
+      "day": 12,
+      "title": "(⊙.◎)",
+      "url": "https://diegomarcos.com/vibecodevember/feather/",
+      "source": "https://x.com/dmarcos/status/2121464602634354748",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121463095591579648/img/B67EjW9XpG7HwiQb.jpg?name=large"
+    },
+    {
+      "creator": "diego",
+      "day": 11,
+      "title": "Not so stainless steel",
+      "url": "https://diegomarcos.com/vibecodevember/rust/",
+      "source": "https://x.com/dmarcos/status/2120994790280192344",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120994559215726592/img/XyhaX90CRIJLNtR4.jpg?name=large"
+    },
+    {
+      "creator": "diego",
+      "day": 10,
+      "title": "Three Ways",
+      "url": "https://diegomarcos.com/vibecodevember/caustics/",
+      "source": "https://x.com/dmarcos/status/2120638742977548623",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120638600526340096/img/CfIw2P30tsSw-8kF.jpg?name=large"
+    },
+    {
+      "creator": "diego",
+      "day": 9,
+      "url": "https://diegomarcos.com/vibecodevember/membrane/",
+      "source": "https://x.com/dmarcos/status/2120345490390950216",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120345305824792576/img/inVUgi66J5U5_ekV.jpg?name=large",
+      "title": "Chimerolympics"
+    },
+    {
+      "creator": "diego",
+      "day": 8,
+      "title": "Galaxy Brain",
+      "url": "https://diegomarcos.com/vibecodevember/tesseract/",
+      "source": "https://x.com/dmarcos/status/2119963796680978718",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119963353095471104/img/h58u2b-ouVX5uI8S.jpg?name=large"
+    },
+    {
+      "creator": "diego",
+      "day": 7,
+      "title": "Hollow",
+      "url": "https://diegomarcos.com/vibecodevember/hollow/",
+      "source": "https://x.com/dmarcos/status/2119681150159589464",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119680131350540288/img/FEBp-5ZA7z4iNyoL.jpg?name=large"
+    },
+    {
+      "creator": "diego",
+      "day": 6,
+      "title": "I would do anything for just one glimpse of Aphrodite...!",
+      "url": "https://diegomarcos.com/vibecodevember/orrery/",
+      "source": "https://x.com/dmarcos/status/2119102654416838758",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119102479552090112/img/bgSK_zUdicFtXtNz.jpg?name=large"
+    },
+    {
+      "creator": "diego",
+      "day": 5,
+      "title": "You are Moss, and to Moss you shall return",
+      "url": "https://diegomarcos.com/vibecodevember/moss/",
+      "source": "https://x.com/dmarcos/status/2118795923627409839",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2118794559522234368/img/fxbRp1SkDw94BriD.jpg?name=large"
+    },
+    {
+      "creator": "diego",
+      "day": 4,
+      "title": "Spaghetti Code",
+      "url": "https://diegomarcos.com/vibecodevember/tangle/",
+      "source": "https://x.com/dmarcos/status/2118206725816037454",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2118206262446047232/img/zy6y92sPINj8kPXP.jpg?name=large"
+    },
+    {
+      "creator": "diego",
+      "day": 3,
+      "title": "Do not melt!",
+      "url": "https://diegomarcos.com/vibecodevember/melt/",
+      "source": "https://x.com/dmarcos/status/2117870145788166312",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2117869522296475648/img/86OFf1Z80K_Q2EZn.jpg?name=large"
+    },
+    {
+      "creator": "diego",
+      "day": 2,
+      "url": "https://diegomarcos.com/vibecodevember/shatter/",
+      "source": "https://x.com/dmarcos/status/2117506095048737170",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2117504920790372352/img/ECHVQIxZ1Sed5ew9.jpg?name=large",
+      "title": "Fix me"
+    },
+    {
+      "creator": "diego",
+      "day": 1,
+      "title": "Fold",
+      "url": "https://diegomarcos.com/vibecodevember/fold/",
+      "source": "https://x.com/dmarcos/status/2117094525072212195",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2117094395128446976/img/5jY03k0NnUExISA9.jpg?name=large"
     }
   ],
   "creators": {
@@ -162,6 +258,11 @@
       "name": "Cartesius",
       "handle": "CartesiusXYZ",
       "url": "https://x.com/CartesiusXYZ"
+    },
+    "diego": {
+      "name": "Diego Marcos",
+      "handle": "dmarcos",
+      "url": "https://x.com/dmarcos"
     }
   }
 }

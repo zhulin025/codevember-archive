@@ -151,6 +151,11 @@
       "name": "Cartesius",
       "handle": "CartesiusXYZ",
       "url": "https://x.com/CartesiusXYZ"
+    },
+    "diego": {
+      "name": "Diego Marcos",
+      "handle": "dmarcos",
+      "url": "https://x.com/dmarcos"
     }
   },
   "works": [
@@ -160,7 +165,7 @@
       "url": "https://mrdoob.github.io/codevember-2026/01/",
       "source": "https://mrdoob.github.io/codevember-2026/",
       "day": 1,
-      "image": "https://mrdoob.github.io/codevember-2026/files/01.webp"
+      "image": "https://mrdoob.github.io/codevember-2026/01/preview.webp"
     },
     {
       "creator": "spite",
@@ -259,12 +264,20 @@
       "image": "https://codevember-2026.felixmartinez.dev/assets/thumbnail-640-C5B3mmOK.webp"
     },
     {
+      "creator": "diego",
+      "title": "Fold",
+      "url": "https://diegomarcos.com/vibecodevember/fold/",
+      "source": "https://x.com/dmarcos/status/2117094525072212195",
+      "day": 1,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2117094395128446976/img/5jY03k0NnUExISA9.jpg?name=large"
+    },
+    {
       "creator": "mrdoob",
       "title": "Shatter",
       "url": "https://mrdoob.github.io/codevember-2026/02/",
       "source": "https://mrdoob.github.io/codevember-2026/",
       "day": 2,
-      "image": "https://mrdoob.github.io/codevember-2026/files/02.webp"
+      "image": "https://mrdoob.github.io/codevember-2026/02/preview.webp"
     },
     {
       "creator": "spite",
@@ -371,12 +384,20 @@
       "image": "https://play.cartesius.studio/img/og-shatter-glass.jpg"
     },
     {
+      "creator": "diego",
+      "title": "Fix me",
+      "url": "https://diegomarcos.com/vibecodevember/shatter/",
+      "source": "https://x.com/dmarcos/status/2117506095048737170",
+      "day": 2,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2117504920790372352/img/ECHVQIxZ1Sed5ew9.jpg?name=large"
+    },
+    {
       "creator": "mrdoob",
       "title": "Melt",
       "url": "https://mrdoob.github.io/codevember-2026/03/",
       "source": "https://mrdoob.github.io/codevember-2026/",
       "day": 3,
-      "image": "https://mrdoob.github.io/codevember-2026/files/03.webp"
+      "image": "https://mrdoob.github.io/codevember-2026/03/preview.webp"
     },
     {
       "creator": "spite",
@@ -459,12 +480,20 @@
       "image": "https://codevember-2026.felixmartinez.dev/assets/thumbnail-640-DH4oOn41.webp"
     },
     {
+      "creator": "diego",
+      "title": "Do not melt!",
+      "url": "https://diegomarcos.com/vibecodevember/melt/",
+      "source": "https://x.com/dmarcos/status/2117870145788166312",
+      "day": 3,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2117869522296475648/img/86OFf1Z80K_Q2EZn.jpg?name=large"
+    },
+    {
       "creator": "mrdoob",
       "title": "Tangle",
       "url": "https://mrdoob.github.io/codevember-2026/04/",
       "source": "https://mrdoob.github.io/codevember-2026/",
       "day": 4,
-      "image": "https://mrdoob.github.io/codevember-2026/files/04.webp"
+      "image": "https://mrdoob.github.io/codevember-2026/04/preview.webp"
     },
     {
       "creator": "spite",
@@ -563,12 +592,20 @@
       "image": "https://codevember-2026.felixmartinez.dev/assets/thumbnail-640-CycYw0-9.webp"
     },
     {
+      "creator": "diego",
+      "title": "Spaghetti Code",
+      "url": "https://diegomarcos.com/vibecodevember/tangle/",
+      "source": "https://x.com/dmarcos/status/2118206725816037454",
+      "day": 4,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2118206262446047232/img/zy6y92sPINj8kPXP.jpg?name=large"
+    },
+    {
       "creator": "mrdoob",
       "title": "Moss",
       "url": "https://mrdoob.github.io/codevember-2026/05/",
       "source": "https://mrdoob.github.io/codevember-2026/",
       "day": 5,
-      "image": "https://mrdoob.github.io/codevember-2026/files/05.webp"
+      "image": "https://mrdoob.github.io/codevember-2026/05/preview.webp"
     },
     {
       "creator": "spite",
@@ -659,12 +696,20 @@
       "image": "https://codevember-2026.felixmartinez.dev/assets/thumbnail-640-DiOxoPut.webp"
     },
     {
+      "creator": "diego",
+      "title": "You are Moss, and to Moss you shall return",
+      "url": "https://diegomarcos.com/vibecodevember/moss/",
+      "source": "https://x.com/dmarcos/status/2118795923627409839",
+      "day": 5,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2118794559522234368/img/fxbRp1SkDw94BriD.jpg?name=large"
+    },
+    {
       "creator": "mrdoob",
       "title": "Orrery",
       "url": "https://mrdoob.github.io/codevember-2026/06/",
       "source": "https://mrdoob.github.io/codevember-2026/",
       "day": 6,
-      "image": "https://mrdoob.github.io/codevember-2026/files/06.webp"
+      "image": "https://mrdoob.github.io/codevember-2026/06/preview.webp"
     },
     {
       "creator": "spite",
@@ -755,12 +800,20 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2118796267186749440/img/r09ZzPtEDxgGSeQI.jpg?name=large"
     },
     {
+      "creator": "diego",
+      "title": "I would do anything for just one glimpse of Aphrodite...!",
+      "url": "https://diegomarcos.com/vibecodevember/orrery/",
+      "source": "https://x.com/dmarcos/status/2119102654416838758",
+      "day": 6,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119102479552090112/img/bgSK_zUdicFtXtNz.jpg?name=large"
+    },
+    {
       "creator": "mrdoob",
       "title": "Hollow",
       "url": "https://mrdoob.github.io/codevember-2026/07/",
       "source": "https://mrdoob.github.io/codevember-2026/",
       "day": 7,
-      "image": "https://mrdoob.github.io/codevember-2026/files/07.webp"
+      "image": "https://mrdoob.github.io/codevember-2026/07/preview.webp"
     },
     {
       "creator": "spite",
@@ -867,12 +920,20 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2119132394221436928/img/-Z__9dgHzdFT2Na3.jpg?name=large"
     },
     {
+      "creator": "diego",
+      "title": "Hollow",
+      "url": "https://diegomarcos.com/vibecodevember/hollow/",
+      "source": "https://x.com/dmarcos/status/2119681150159589464",
+      "day": 7,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119680131350540288/img/FEBp-5ZA7z4iNyoL.jpg?name=large"
+    },
+    {
       "creator": "mrdoob",
       "title": "Tesseract",
       "url": "https://mrdoob.github.io/codevember-2026/08/",
       "source": "https://mrdoob.github.io/codevember-2026/",
       "day": 8,
-      "image": "https://mrdoob.github.io/codevember-2026/files/08.webp"
+      "image": "https://mrdoob.github.io/codevember-2026/08/preview.webp"
     },
     {
       "creator": "spite",
@@ -947,12 +1008,20 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2119415452774400000/img/URXu1G6j-wXdoXTH.jpg?name=large"
     },
     {
+      "creator": "diego",
+      "title": "Galaxy Brain",
+      "url": "https://diegomarcos.com/vibecodevember/tesseract/",
+      "source": "https://x.com/dmarcos/status/2119963796680978718",
+      "day": 8,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119963353095471104/img/h58u2b-ouVX5uI8S.jpg?name=large"
+    },
+    {
       "creator": "mrdoob",
       "title": "Membrane",
       "url": "https://mrdoob.github.io/codevember-2026/09/",
       "source": "https://mrdoob.github.io/codevember-2026/",
       "day": 9,
-      "image": "https://mrdoob.github.io/codevember-2026/files/09.webp"
+      "image": "https://mrdoob.github.io/codevember-2026/09/preview.webp"
     },
     {
       "creator": "spite",
@@ -1011,6 +1080,14 @@
       "image": "https://drschizzo.github.io/Codevember/home/membrane-scene.jpg"
     },
     {
+      "creator": "lars",
+      "title": "Membrane",
+      "url": "https://larsberg.github.io/2026-codevember-09-membrane/",
+      "source": "https://x.com/laserberg/status/2122312543792488813",
+      "day": 9,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122312493510938624/img/X3uW3KjWPApY4kAH.jpg?name=large"
+    },
+    {
       "creator": "eric",
       "title": "Membrane",
       "url": "https://www.ericlevin.dev/codevember/09/",
@@ -1035,12 +1112,20 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2119898158373183488/img/8sKNwclf0LKawGQP.jpg?name=large"
     },
     {
+      "creator": "diego",
+      "title": "Chimerolympics",
+      "url": "https://diegomarcos.com/vibecodevember/membrane/",
+      "source": "https://x.com/dmarcos/status/2120345490390950216",
+      "day": 9,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120345305824792576/img/inVUgi66J5U5_ekV.jpg?name=large"
+    },
+    {
       "creator": "mrdoob",
       "title": "Caustic",
       "url": "https://mrdoob.github.io/codevember-2026/10/",
       "source": "https://mrdoob.github.io/codevember-2026/",
       "day": 10,
-      "image": "https://mrdoob.github.io/codevember-2026/files/10.webp"
+      "image": "https://mrdoob.github.io/codevember-2026/10/preview.webp"
     },
     {
       "creator": "spite",
@@ -1123,12 +1208,20 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2121278904073621504/img/rzM_kIaUSavv2Das.jpg?name=large"
     },
     {
+      "creator": "diego",
+      "title": "Three Ways",
+      "url": "https://diegomarcos.com/vibecodevember/caustics/",
+      "source": "https://x.com/dmarcos/status/2120638742977548623",
+      "day": 10,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120638600526340096/img/CfIw2P30tsSw-8kF.jpg?name=large"
+    },
+    {
       "creator": "mrdoob",
       "title": "Rust",
       "url": "https://mrdoob.github.io/codevember-2026/11/",
       "source": "https://mrdoob.github.io/codevember-2026/",
       "day": 11,
-      "image": "https://mrdoob.github.io/codevember-2026/files/11.webp"
+      "image": "https://mrdoob.github.io/codevember-2026/11/preview.webp"
     },
     {
       "creator": "spite",
@@ -1195,12 +1288,20 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2120472611918368768/img/A0sBMBSvL-Q9im77.jpg?name=large"
     },
     {
+      "creator": "diego",
+      "title": "Not so stainless steel",
+      "url": "https://diegomarcos.com/vibecodevember/rust/",
+      "source": "https://x.com/dmarcos/status/2120994790280192344",
+      "day": 11,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120994559215726592/img/XyhaX90CRIJLNtR4.jpg?name=large"
+    },
+    {
       "creator": "mrdoob",
       "title": "Feather",
       "url": "https://mrdoob.github.io/codevember-2026/12/",
       "source": "https://mrdoob.github.io/codevember-2026/",
       "day": 12,
-      "image": "https://mrdoob.github.io/codevember-2026/files/12.webp"
+      "image": "https://mrdoob.github.io/codevember-2026/12/preview.webp"
     },
     {
       "creator": "spite",
@@ -1307,12 +1408,20 @@
       "image": "https://raw.githubusercontent.com/hard2forgetme/magpie-window-sill/HEAD/src/title-magpie.webp"
     },
     {
+      "creator": "diego",
+      "title": "(⊙.◎)",
+      "url": "https://diegomarcos.com/vibecodevember/feather/",
+      "source": "https://x.com/dmarcos/status/2121464602634354748",
+      "day": 12,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121463095591579648/img/B67EjW9XpG7HwiQb.jpg?name=large"
+    },
+    {
       "creator": "mrdoob",
       "title": "Labyrinth",
       "url": "https://mrdoob.github.io/codevember-2026/13/",
       "source": "https://mrdoob.github.io/codevember-2026/",
       "day": 13,
-      "image": "https://mrdoob.github.io/codevember-2026/files/13.webp"
+      "image": "https://mrdoob.github.io/codevember-2026/13/preview.webp"
     },
     {
       "creator": "spite",
@@ -1408,7 +1517,7 @@
       "url": "https://mrdoob.github.io/codevember-2026/14/",
       "source": "https://mrdoob.github.io/codevember-2026/",
       "day": 14,
-      "image": "https://mrdoob.github.io/codevember-2026/files/14.webp"
+      "image": "https://mrdoob.github.io/codevember-2026/14/preview.webp"
     },
     {
       "creator": "spite",
@@ -1481,6 +1590,14 @@
       "source": "https://x.com/_pwd_/status/2121602351434015044",
       "day": 14,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2121601953889181696/img/X5idPumQ5KUrEpA-.jpg?name=large"
+    },
+    {
+      "creator": "mrdoob",
+      "title": "Mirage",
+      "url": "https://mrdoob.github.io/codevember-2026/15/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 15,
+      "image": "https://mrdoob.github.io/codevember-2026/15/preview.webp"
     },
     {
       "creator": "spite",
