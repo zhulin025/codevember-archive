@@ -83,7 +83,7 @@
       "url": "https://x.com/laserberg"
     },
     "gregory": {
-      "name": "Grégory Daviet",
+      "name": "Grégoire Divaret-Chauveau",
       "handle": "grgrdvrt",
       "url": "https://grgrdvrt.com/works/codevember-2026/"
     },
@@ -156,6 +156,11 @@
       "name": "Diego Marcos",
       "handle": "dmarcos",
       "url": "https://x.com/dmarcos"
+    },
+    "kevin9327": {
+      "name": "kevin",
+      "handle": "kevin9327",
+      "url": "https://github.com/kevin9327/tiny-shaders"
     }
   },
   "works": [
@@ -190,6 +195,13 @@
       "source": "https://akella.github.io/codevember-2026/",
       "day": 1,
       "image": "https://akella.github.io/codevember-2026/1/cover.jpg"
+    },
+    {
+      "creator": "theo",
+      "title": "Fold",
+      "url": "https://ttillberg.github.io/codevember-2026/01/",
+      "source": "https://ttillberg.github.io/codevember-2026/",
+      "day": 1
     },
     {
       "creator": "vipin",
@@ -1176,6 +1188,14 @@
       "image": "https://drschizzo.github.io/Codevember/home/caustic-scene.jpg"
     },
     {
+      "creator": "lars",
+      "title": "Caustic",
+      "url": "https://larsberg.github.io/2026-codevember-10-caustic/",
+      "source": "https://x.com/laserberg/status/2122455099192623337",
+      "day": 10,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122454855344074752/img/u8nP7uGsENILwnlc.jpg?name=large"
+    },
+    {
       "creator": "gregory",
       "title": "Caustic",
       "url": "https://grgrdvrt.com/works/codevember-2026/10_caustics/",
@@ -1238,6 +1258,14 @@
       "source": "https://adamwebsite.com/codevember/",
       "day": 11,
       "image": "https://adamwebsite.com/codevember/11-rust.jpg"
+    },
+    {
+      "creator": "akella",
+      "title": "Rust",
+      "url": "https://akella.github.io/codevember-2026/11/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 11,
+      "image": "https://akella.github.io/codevember-2026/11/cover.jpg"
     },
     {
       "creator": "vipin",
@@ -1648,6 +1676,30 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2121998394818285568/img/ncQtyrRWk3SzBmGx.jpg?name=large"
     },
     {
+      "creator": "mrdoob",
+      "title": "Spore",
+      "url": "https://mrdoob.github.io/codevember-2026/16/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 16,
+      "image": "https://mrdoob.github.io/codevember-2026/16/preview.webp"
+    },
+    {
+      "creator": "adam",
+      "title": "Spore",
+      "url": "https://adamwebsite.com/codevember/16-spore/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 16,
+      "image": "https://adamwebsite.com/codevember/16-spore.jpg"
+    },
+    {
+      "creator": "theo",
+      "title": "Spore",
+      "url": "https://ttillberg.github.io/codevember-2026/16/",
+      "source": "https://github.com/ttillberg/codevember-2026/tree/main/16",
+      "day": 16,
+      "image": "./covers/theo16.jpg"
+    },
+    {
       "creator": "drschizzo",
       "title": "Le relais",
       "url": "https://drschizzo.github.io/Codevember/spore/",
@@ -1656,12 +1708,68 @@
       "image": "https://drschizzo.github.io/Codevember/home/spore-scene.jpg"
     },
     {
+      "creator": "greg",
+      "title": "From spore to more",
+      "url": "https://gregpuzzles1.github.io/codevember-2026/16/",
+      "source": "https://github.com/gregpuzzles1/codevember-2026/tree/HEAD/16",
+      "day": 16,
+      "image": "https://raw.githubusercontent.com/gregpuzzles1/codevember-2026/HEAD/16/social-preview.png"
+    },
+    {
+      "creator": "tino",
+      "title": "Fern Spores",
+      "url": "https://x.com/tinotibaldo/status/2122475802327388618",
+      "source": "https://x.com/tinotibaldo/status/2122475802327388618",
+      "day": 16,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122475425674772480/img/rbbLcgLMPdhIybDZ.jpg?name=large"
+    },
+    {
+      "creator": "eric",
+      "title": "Spore — the network under the forest floor",
+      "url": "https://www.ericlevin.dev/codevember/spore/",
+      "source": "https://www.ericlevin.dev/codevember/spore/footage/",
+      "day": 16,
+      "image": "https://footage.ericrius1.workers.dev/spore/467d2acbea27dd41/spore-loop-card.jpg"
+    },
+    {
+      "creator": "pwd",
+      "title": "Spore",
+      "url": "https://dasprinzip.com/codevember2026/16-spore.html",
+      "source": "https://x.com/_pwd_/status/2122338981152997618",
+      "day": 16,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122338728534310912/img/KMNoOALdjYdUSCJR.jpg?name=large"
+    },
+    {
+      "creator": "adam",
+      "title": "Kelp",
+      "url": "https://adamwebsite.com/codevember/17-kelp/",
+      "source": "https://adamwebsite.com/codevember/",
+      "day": 17,
+      "image": "https://adamwebsite.com/codevember/17-kelp.jpg"
+    },
+    {
       "creator": "drschizzo",
       "title": "Le ressac",
       "url": "https://drschizzo.github.io/Codevember/kelp/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 17,
       "image": "https://drschizzo.github.io/Codevember/home/kelp-scene.jpg"
+    },
+    {
+      "creator": "greg",
+      "title": "Kelp Courier — A Dash Through the Kelp Forest",
+      "url": "https://gregpuzzles1.github.io/codevember-2026/17/",
+      "source": "https://github.com/gregpuzzles1/codevember-2026/tree/HEAD/17",
+      "day": 17,
+      "image": "https://raw.githubusercontent.com/gregpuzzles1/codevember-2026/HEAD/17/social-preview.png"
+    },
+    {
+      "creator": "pwd",
+      "title": "Kelp",
+      "url": "https://dasprinzip.com/codevember2026/17-kelp.html",
+      "source": "https://x.com/_pwd_/status/2122691983680635088",
+      "day": 17,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122691637402820608/img/GEoomv9J71Zko3G8.jpg?name=large"
     },
     {
       "creator": "drschizzo",
@@ -1734,7 +1842,15 @@
       "source": "https://x.com/tgcnzn/status/2118543836620394809",
       "theme": "Smoke Harp",
       "image": "https://pbs.twimg.com/amplify_video_thumb/2118543242366959616/img/NVQZxKq6cBgeOP3J.jpg?name=large"
+    },
+    {
+      "creator": "kevin9327",
+      "title": "Silk",
+      "url": "https://kevin9327.github.io/tiny-shaders/#001",
+      "source": "https://github.com/kevin9327/tiny-shaders",
+      "theme": "Silk",
+      "image": "https://kevin9327.github.io/tiny-shaders/media/posters/001.jpg"
     }
   ],
-  "updated": "2026-11-16"
+  "updated": "2026-11-17"
 }

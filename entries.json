@@ -251,6 +251,38 @@
       "url": "https://diegomarcos.com/vibecodevember/fold/",
       "source": "https://x.com/dmarcos/status/2117094525072212195",
       "image": "https://pbs.twimg.com/amplify_video_thumb/2117094395128446976/img/5jY03k0NnUExISA9.jpg?name=large"
+    },
+    {
+      "creator": "theo",
+      "day": 16,
+      "title": "Spore",
+      "url": "https://ttillberg.github.io/codevember-2026/16/",
+      "source": "https://github.com/ttillberg/codevember-2026/tree/main/16",
+      "image": "./covers/theo16.jpg"
+    },
+    {
+      "creator": "eric",
+      "day": 16,
+      "title": "Spore — the network under the forest floor",
+      "url": "https://www.ericlevin.dev/codevember/spore/",
+      "source": "https://www.ericlevin.dev/codevember/spore/footage/",
+      "image": "https://footage.ericrius1.workers.dev/spore/467d2acbea27dd41/spore-loop-card.jpg"
+    },
+    {
+      "creator": "tino",
+      "day": 16,
+      "title": "Fern Spores",
+      "url": "https://x.com/tinotibaldo/status/2122475802327388618",
+      "source": "https://x.com/tinotibaldo/status/2122475802327388618",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122475425674772480/img/rbbLcgLMPdhIybDZ.jpg?name=large"
+    },
+    {
+      "creator": "kevin9327",
+      "theme": "Silk",
+      "title": "Silk",
+      "url": "https://kevin9327.github.io/tiny-shaders/#001",
+      "source": "https://github.com/kevin9327/tiny-shaders",
+      "image": "https://kevin9327.github.io/tiny-shaders/media/posters/001.jpg"
     }
   ],
   "creators": {
@@ -263,6 +295,16 @@
       "name": "Diego Marcos",
       "handle": "dmarcos",
       "url": "https://x.com/dmarcos"
+    },
+    "kevin9327": {
+      "name": "kevin",
+      "handle": "kevin9327",
+      "url": "https://github.com/kevin9327/tiny-shaders"
+    },
+    "gregory": {
+      "name": "Grégoire Divaret-Chauveau",
+      "handle": "grgrdvrt",
+      "url": "https://grgrdvrt.com/works/codevember-2026/"
     }
   }
 }
