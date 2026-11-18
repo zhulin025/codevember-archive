@@ -122,7 +122,8 @@ function render() {
     button.dataset.empty = String(!count);
     if (id === selectedTheme) button.setAttribute('aria-current', 'true');
     else button.removeAttribute('aria-current');
-    button.setAttribute('aria-label', `${button.dataset.label}，${count} 件作品`);
+    const updatedLabel = button.querySelector('.theme-update') ? '，本次收录日有新增作品' : '';
+    button.setAttribute('aria-label', `${button.dataset.label}，${count} 件作品${updatedLabel}`);
   }
 
   const picked = selectedTheme === allTheme
@@ -155,11 +156,20 @@ function saveLocation(push) {
   if (url.href !== location.href) history[push ? 'pushState' : 'replaceState']({}, '', url);
 }
 
-function addTheme(id, number, label) {
+function addTheme(id, number, label, translation) {
   const button = element('button', 'theme-button');
   button.type = 'button';
-  button.dataset.label = number && number !== '•' ? `${number} ${label}` : label;
-  button.append(element('span', 'number', number), element('span', null, label), element('span', 'count'));
+  const caption = element('span', 'theme-caption', label);
+  if (translation) caption.append(' ', element('span', 'theme-translation', translation));
+  const fullLabel = translation ? `${label} ${translation}` : label;
+  button.dataset.label = number && number !== '•' ? `${number} ${fullLabel}` : fullLabel;
+  button.append(element('span', 'number', number), caption);
+  if (catalogue.dailyUpdates?.date && catalogue.dailyUpdates.themes?.includes(id)) {
+    const badge = element('span', 'theme-update', '更新');
+    badge.title = `${catalogue.dailyUpdates.date}（北京时间）新增作品`;
+    button.append(badge);
+  }
+  button.append(element('span', 'count'));
   button.addEventListener('click', () => {
     selectedTheme = id;
     saveLocation(true);
@@ -199,7 +209,7 @@ async function load() {
   if (catalogue.updated) byId('updated').textContent = `收录更新 ${catalogue.updated.replaceAll('-', '.')}`;
 
   addTheme(allTheme, '•', '全部作品');
-  for (const { id, prompt } of catalogue.themes) addTheme(id, id, prompt);
+  for (const { id, prompt, translation } of catalogue.themes) addTheme(id, id, prompt, translation);
   if (catalogue.works.some((work) => !work.day)) addTheme(freeTheme, '•', '自选主题');
   readLocation();
   render();

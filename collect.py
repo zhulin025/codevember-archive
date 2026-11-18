@@ -341,6 +341,15 @@ def image_is_live(url):
     except OSError:
         return False
 
+def daily_updates(old, rows, today):
+    previous = old.get('dailyUpdates', {})
+    themes = set(previous.get('themes', [])) if previous.get('date') == today else set()
+    known = {work_key(work) for work in old.get('works', [])}
+    for key, work in rows.items():
+        if key not in known:
+            themes.add(f'{work["day"]:02}' if work.get('day') else 'free')
+    return {'date': today, 'themes': sorted(themes)}
+
 def refresh(validate_images):
     old = json.loads(DATA.read_text()) if DATA.exists() else {}
     curated = json.loads(ENTRIES.read_text())
@@ -394,9 +403,15 @@ def refresh(validate_images):
                     work['image'] = prior['image']
                 else:
                     work.pop('image')
-    data = {'themes': THEMES, 'creators': creators, 'works': ordered}
+    today = datetime.now(ZoneInfo('Asia/Shanghai')).date().isoformat()
+    data = {
+        'themes': THEMES, 'creators': creators, 'works': ordered,
+        'dailyUpdates': daily_updates(old, rows, today),
+    }
+    content_changed = any(data[key] != old.get(key) for key in ('themes', 'creators', 'works'))
+    if content_changed or old.get('updated'):
+        data['updated'] = today if content_changed else old['updated']
     if any(data[key] != old.get(key) for key in data):
-        data['updated'] = datetime.now(ZoneInfo('Asia/Shanghai')).date().isoformat()
         with tempfile.NamedTemporaryFile(mode='w', dir=DATA.parent, encoding='utf-8', delete=False) as output:
             temp = Path(output.name)
             try:

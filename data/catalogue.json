@@ -1292,6 +1292,14 @@
       "image": "https://drschizzo.github.io/Codevember/home/rust-scene.jpg"
     },
     {
+      "creator": "lars",
+      "title": "Rust",
+      "url": "https://larsberg.github.io/2026-codevember-11-rust/",
+      "source": "https://x.com/laserberg/status/2122746641698766960",
+      "day": 11,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122744457267130368/img/zb6Fxg1xfXADuxiG.jpg?name=large"
+    },
+    {
       "creator": "aki",
       "title": "Rust",
       "url": "https://akirodic.com/p/codevember2026/#codevember=Rust",
@@ -1348,6 +1356,14 @@
       "image": "https://adamwebsite.com/codevember/12-feather.jpg"
     },
     {
+      "creator": "akella",
+      "title": "Feather",
+      "url": "https://akella.github.io/codevember-2026/12/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 12,
+      "image": "https://akella.github.io/codevember-2026/12/cover.jpg"
+    },
+    {
       "creator": "theo",
       "title": "Iridescent Hummingbird",
       "url": "https://ttillberg.github.io/codevember-2026/12/",
@@ -1378,6 +1394,14 @@
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 12,
       "image": "https://drschizzo.github.io/Codevember/home/feather-scene.jpg"
+    },
+    {
+      "creator": "lars",
+      "title": "Feather",
+      "url": "https://larsberg.github.io/2026-codevember-12-feather/",
+      "source": "https://x.com/laserberg/status/2122815639501045855",
+      "day": 12,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122815611688423425/img/m0fQrRMlo0Phcd7B.jpg?name=large"
     },
     {
       "creator": "gregory",
@@ -1684,6 +1708,14 @@
       "image": "https://mrdoob.github.io/codevember-2026/16/preview.webp"
     },
     {
+      "creator": "spite",
+      "title": "Spore",
+      "url": "https://spite.github.io/codevember-2026/16/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 16,
+      "image": "https://spite.github.io/codevember-2026/screenshots/16.jpg"
+    },
+    {
       "creator": "adam",
       "title": "Spore",
       "url": "https://adamwebsite.com/codevember/16-spore/",
@@ -1756,6 +1788,14 @@
       "image": "https://drschizzo.github.io/Codevember/home/kelp-scene.jpg"
     },
     {
+      "creator": "gregory",
+      "title": "Kelp",
+      "url": "https://grgrdvrt.com/works/codevember-2026/17_kelp/",
+      "source": "https://x.com/grgrdvrt/status/2122796774075318593",
+      "day": 17,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122795847612059649/img/a1tts29p1ffiCKZr.jpg?name=large"
+    },
+    {
       "creator": "greg",
       "title": "Kelp Courier — A Dash Through the Kelp Forest",
       "url": "https://gregpuzzles1.github.io/codevember-2026/17/",
@@ -1778,6 +1818,14 @@
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 18,
       "image": "https://drschizzo.github.io/Codevember/home/pendulum-scene.jpg"
+    },
+    {
+      "creator": "greg",
+      "title": "Pendulum — A 360° Newton's Cradle",
+      "url": "https://gregpuzzles1.github.io/codevember-2026/18/",
+      "source": "https://github.com/gregpuzzles1/codevember-2026/tree/HEAD/18",
+      "day": 18,
+      "image": "https://raw.githubusercontent.com/gregpuzzles1/codevember-2026/HEAD/18/social-preview.png"
     },
     {
       "creator": "drschizzo",
@@ -1852,5 +1900,15 @@
       "image": "https://kevin9327.github.io/tiny-shaders/media/posters/001.jpg"
     }
   ],
-  "updated": "2026-11-17"
+  "dailyUpdates": {
+    "date": "2026-11-18",
+    "themes": [
+      "11",
+      "12",
+      "16",
+      "17",
+      "18"
+    ]
+  },
+  "updated": "2026-11-18"
 }
