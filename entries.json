@@ -290,7 +290,7 @@
       "title": "Bonsai in the clouds",
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/bonsai",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/bonsai-RO9wqYS8.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-RO9wqYS8.webp"
     },
     {
       "creator": "karim",
@@ -298,7 +298,7 @@
       "title": "Homesteads",
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/homesteads",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/homesteads-EgJcj7Pr.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-EgJcj7Pr.webp"
     },
     {
       "creator": "karim",
@@ -306,7 +306,7 @@
       "title": "Kitten in the grass",
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/kitten",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/kitten-ho7_y_Kp.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-ho7_y_Kp.webp"
     },
     {
       "creator": "karim",
@@ -314,7 +314,7 @@
       "title": "Homing",
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/homing",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/homing-XMlk2jNm.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-XMlk2jNm.webp"
     },
     {
       "creator": "karim",
@@ -322,7 +322,7 @@
       "title": "Cloud flight",
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/flight",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/flight-hxDVQpdo.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-hxDVQpdo.webp"
     },
     {
       "creator": "karim",
@@ -330,7 +330,7 @@
       "title": "Glass worlds",
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/glass",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/glass-AF-JZZjM.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-AF-JZZjM.webp"
     },
     {
       "creator": "karim",
@@ -338,7 +338,7 @@
       "title": "Orrery",
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/orrery",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/orrery-uEFfSNJl.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-uEFfSNJl.webp"
     },
     {
       "creator": "karim",
@@ -346,7 +346,7 @@
       "title": "Voxel valley",
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/voxel",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/voxel-nB07IpkD.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-nB07IpkD.webp"
     },
     {
       "creator": "pwd",
@@ -435,6 +435,53 @@
       "url": "https://ttillberg.github.io/codevember-2026/01/",
       "source": "https://ttillberg.github.io/codevember-2026/",
       "image": "./covers/theo01.jpg"
+    },
+    {
+      "creator": "karim",
+      "theme": "A Patch of Earth",
+      "title": "A Patch of Earth",
+      "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/patch-of-earth",
+      "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-prJvQImW.webp"
+    },
+    {
+      "creator": "adam",
+      "day": 19,
+      "title": "Erosion",
+      "url": "https://adamwebsite.com/codevember/19-erosion/",
+      "source": "https://github.com/acher249/codevember-2026/tree/main/19-erosion",
+      "image": "https://adamwebsite.com/codevember/share/19-erosion.jpg"
+    },
+    {
+      "creator": "adam",
+      "day": 2,
+      "title": "Shatter",
+      "url": "https://adamwebsite.com/codevember/02-shatter/",
+      "source": "https://github.com/acher249/codevember-2026/tree/main/02-shatter",
+      "image": "https://adamwebsite.com/codevember/share/02-shatter.jpg"
+    },
+    {
+      "creator": "sztanki",
+      "theme": "Wisp",
+      "title": "Wisp — Particle Agent",
+      "url": "https://wisp.ginrin.com/",
+      "source": "https://x.com/ginrincom/status/2123274373800841241",
+      "image": "https://wisp.ginrin.com/assets/images/website.webp"
+    },
+    {
+      "creator": "theo",
+      "day": 4,
+      "title": "Tangle — Snakes",
+      "url": "https://ttillberg.github.io/codevember-2026/04-snakes/",
+      "source": "https://github.com/ttillberg/codevember-2026/tree/main/04-snakes",
+      "image": "https://ttillberg.github.io/codevember-2026/04-snakes/screengrab.png"
+    },
+    {
+      "creator": "aishwary",
+      "day": 12,
+      "title": "Indian Blue Peacock",
+      "url": "https://aishwary2004gupta.github.io/codevember-2026/12/",
+      "source": "https://github.com/Aishwary2004Gupta/codevember-2026/tree/main/12"
     }
   ],
   "creators": {
@@ -466,6 +513,15 @@
     "allowistic": {
       "name": "Allowistic",
       "url": "https://github.com/Allowistic/pendulum-pour"
+    },
+    "sztanki": {
+      "name": "sztanki (Ginrin)",
+      "handle": "sztanki",
+      "url": "https://x.com/sztanki"
+    },
+    "aishwary": {
+      "name": "Aishwary2004Gupta",
+      "url": "https://github.com/Aishwary2004Gupta/codevember-2026"
     }
   }
 }

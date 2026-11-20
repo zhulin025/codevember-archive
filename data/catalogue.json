@@ -170,6 +170,15 @@
     "allowistic": {
       "name": "Allowistic",
       "url": "https://github.com/Allowistic/pendulum-pour"
+    },
+    "sztanki": {
+      "name": "sztanki (Ginrin)",
+      "handle": "sztanki",
+      "url": "https://x.com/sztanki"
+    },
+    "aishwary": {
+      "name": "Aishwary2004Gupta",
+      "url": "https://github.com/Aishwary2004Gupta/codevember-2026"
     }
   },
   "works": [
@@ -231,7 +240,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "La feuille qui se replie",
+      "title": "Le papier qui se plie seul",
       "url": "https://drschizzo.github.io/Codevember/fold/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 1,
@@ -313,9 +322,9 @@
       "creator": "adam",
       "title": "Shatter",
       "url": "https://adamwebsite.com/codevember/02-shatter/",
-      "source": "https://adamwebsite.com/codevember/",
+      "source": "https://github.com/acher249/codevember-2026/tree/main/02-shatter",
       "day": 2,
-      "image": "https://adamwebsite.com/codevember/02-shatter.jpg"
+      "image": "https://adamwebsite.com/codevember/share/02-shatter.jpg"
     },
     {
       "creator": "akella",
@@ -550,6 +559,14 @@
       "image": "https://ttillberg.github.io/codevember-2026/04/screengrab.png"
     },
     {
+      "creator": "theo",
+      "title": "Tangle — Snakes",
+      "url": "https://ttillberg.github.io/codevember-2026/04-snakes/",
+      "source": "https://github.com/ttillberg/codevember-2026/tree/main/04-snakes",
+      "day": 4,
+      "image": "https://ttillberg.github.io/codevember-2026/04-snakes/screengrab.png"
+    },
+    {
       "creator": "vipin",
       "title": "Tangle",
       "url": "https://codevember-26.vercel.app/days/04-tangle/",
@@ -692,6 +709,14 @@
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 5,
       "image": "https://drschizzo.github.io/Codevember/home/moss-scene.jpg"
+    },
+    {
+      "creator": "frida",
+      "title": "Moss",
+      "url": "https://codevember.vercel.app/005/",
+      "source": "https://codevember.vercel.app/",
+      "day": 5,
+      "image": "https://codevember.vercel.app/thumbs/005.jpg"
     },
     {
       "creator": "lars",
@@ -1150,6 +1175,14 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2122312493510938624/img/X3uW3KjWPApY4kAH.jpg?name=large"
     },
     {
+      "creator": "gregory",
+      "title": "Membrane",
+      "url": "https://grgrdvrt.com/works/codevember-2026/09_membrane/",
+      "source": "https://x.com/grgrdvrt/status/2123708110942650431",
+      "day": 9,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2123704859635421184/img/NFUgt-F2kHMLdAUB.jpg?name=large"
+    },
+    {
       "creator": "eric",
       "title": "Membrane",
       "url": "https://www.ericlevin.dev/codevember/09/",
@@ -1236,6 +1269,14 @@
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 10,
       "image": "https://drschizzo.github.io/Codevember/home/caustic-scene.jpg"
+    },
+    {
+      "creator": "frida",
+      "title": "Caustic",
+      "url": "https://codevember.vercel.app/010/",
+      "source": "https://codevember.vercel.app/",
+      "day": 10,
+      "image": "https://codevember.vercel.app/thumbs/010.jpg"
     },
     {
       "creator": "lars",
@@ -1342,6 +1383,14 @@
       "image": "https://drschizzo.github.io/Codevember/home/rust-scene.jpg"
     },
     {
+      "creator": "frida",
+      "title": "Rust",
+      "url": "https://codevember.vercel.app/011/",
+      "source": "https://codevember.vercel.app/",
+      "day": 11,
+      "image": "https://codevember.vercel.app/thumbs/011.jpg"
+    },
+    {
       "creator": "lars",
       "title": "Rust",
       "url": "https://larsberg.github.io/2026-codevember-11-rust/",
@@ -1446,6 +1495,14 @@
       "image": "https://drschizzo.github.io/Codevember/home/feather-scene.jpg"
     },
     {
+      "creator": "frida",
+      "title": "Feather",
+      "url": "https://codevember.vercel.app/012/",
+      "source": "https://codevember.vercel.app/",
+      "day": 12,
+      "image": "https://codevember.vercel.app/thumbs/012.jpg"
+    },
+    {
       "creator": "lars",
       "title": "Feather",
       "url": "https://larsberg.github.io/2026-codevember-12-feather/",
@@ -1518,6 +1575,13 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2121463095591579648/img/B67EjW9XpG7HwiQb.jpg?name=large"
     },
     {
+      "creator": "aishwary",
+      "title": "Indian Blue Peacock",
+      "url": "https://aishwary2004gupta.github.io/codevember-2026/12/",
+      "source": "https://github.com/Aishwary2004Gupta/codevember-2026/tree/main/12",
+      "day": 12
+    },
+    {
       "creator": "mrdoob",
       "title": "Labyrinth",
       "url": "https://mrdoob.github.io/codevember-2026/13/",
@@ -1572,6 +1636,14 @@
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 13,
       "image": "https://drschizzo.github.io/Codevember/home/labyrinth-scene.jpg"
+    },
+    {
+      "creator": "frida",
+      "title": "Labyrinth",
+      "url": "https://codevember.vercel.app/013/",
+      "source": "https://codevember.vercel.app/",
+      "day": 13,
+      "image": "https://codevember.vercel.app/thumbs/013.jpg"
     },
     {
       "creator": "lars",
@@ -1662,6 +1734,14 @@
       "image": "https://adamwebsite.com/codevember/14-tension.jpg"
     },
     {
+      "creator": "akella",
+      "title": "Tension",
+      "url": "https://akella.github.io/codevember-2026/14/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 14,
+      "image": "https://akella.github.io/codevember-2026/14/cover.jpg"
+    },
+    {
       "creator": "theo",
       "title": "One-string Instrument",
       "url": "https://ttillberg.github.io/codevember-2026/14/",
@@ -1692,6 +1772,14 @@
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 14,
       "image": "https://drschizzo.github.io/Codevember/home/tension-scene.jpg"
+    },
+    {
+      "creator": "frida",
+      "title": "Tension",
+      "url": "https://codevember.vercel.app/014/",
+      "source": "https://codevember.vercel.app/",
+      "day": 14,
+      "image": "https://codevember.vercel.app/thumbs/014.jpg"
     },
     {
       "creator": "lars",
@@ -1758,6 +1846,14 @@
       "image": "https://adamwebsite.com/codevember/15-mirage.jpg"
     },
     {
+      "creator": "vipin",
+      "title": "Mirage",
+      "url": "https://codevember-26.vercel.app/days/15-mirage/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 15,
+      "image": "https://codevember-26.vercel.app/thumbs/15.jpg"
+    },
+    {
       "creator": "andrew",
       "title": "Mirage",
       "url": "https://codevember-2026.vercel.app/15-mirage/",
@@ -1772,6 +1868,14 @@
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 15,
       "image": "https://drschizzo.github.io/Codevember/home/mirage-scene.jpg"
+    },
+    {
+      "creator": "frida",
+      "title": "Mirage",
+      "url": "https://codevember.vercel.app/015/",
+      "source": "https://codevember.vercel.app/",
+      "day": 15,
+      "image": "https://codevember.vercel.app/thumbs/015.jpg"
     },
     {
       "creator": "lars",
@@ -1846,12 +1950,36 @@
       "image": "./covers/theo16.jpg"
     },
     {
+      "creator": "vipin",
+      "title": "Spore",
+      "url": "https://codevember-26.vercel.app/days/16-spore/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 16,
+      "image": "https://codevember-26.vercel.app/thumbs/16.jpg"
+    },
+    {
+      "creator": "andrew",
+      "title": "Spore",
+      "url": "https://codevember-2026.vercel.app/16-spore/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/16-spore",
+      "day": 16,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-16-spore-initial.png"
+    },
+    {
       "creator": "drschizzo",
       "title": "Le relais",
       "url": "https://drschizzo.github.io/Codevember/spore/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 16,
       "image": "https://drschizzo.github.io/Codevember/home/spore-scene.jpg"
+    },
+    {
+      "creator": "frida",
+      "title": "Spore",
+      "url": "https://codevember.vercel.app/016/",
+      "source": "https://codevember.vercel.app/",
+      "day": 16,
+      "image": "https://codevember.vercel.app/thumbs/016.jpg"
     },
     {
       "creator": "lars",
@@ -1926,12 +2054,36 @@
       "image": "https://adamwebsite.com/codevember/17-kelp.jpg"
     },
     {
+      "creator": "andrew",
+      "title": "Kelp",
+      "url": "https://codevember-2026.vercel.app/17-kelp/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/17-kelp",
+      "day": 17,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-17-kelp-initial.png"
+    },
+    {
       "creator": "drschizzo",
       "title": "Le ressac",
       "url": "https://drschizzo.github.io/Codevember/kelp/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 17,
       "image": "https://drschizzo.github.io/Codevember/home/kelp-scene.jpg"
+    },
+    {
+      "creator": "frida",
+      "title": "Kelp",
+      "url": "https://codevember.vercel.app/017/",
+      "source": "https://codevember.vercel.app/",
+      "day": 17,
+      "image": "https://codevember.vercel.app/thumbs/017.jpg"
+    },
+    {
+      "creator": "lars",
+      "title": "Kelp",
+      "url": "https://larsberg.github.io/2026-codevember-17-kelp/",
+      "source": "https://x.com/laserberg/status/2123604351222452625",
+      "day": 17,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2123603537879773184/img/kQBgtqlw6nUsggTH.jpg?name=large"
     },
     {
       "creator": "gregory",
@@ -1966,6 +2118,14 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2122691637402820608/img/GEoomv9J71Zko3G8.jpg?name=large"
     },
     {
+      "creator": "spite",
+      "title": "Pendulum",
+      "url": "https://spite.github.io/codevember-2026/18/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 18,
+      "image": "https://spite.github.io/codevember-2026/screenshots/18.jpg"
+    },
+    {
       "creator": "adam",
       "title": "Pendulum Painting",
       "url": "https://adamwebsite.com/codevember/18-pendulum/",
@@ -1982,12 +2142,28 @@
       "image": "https://ttillberg.github.io/codevember-2026/18/screengrab.png"
     },
     {
+      "creator": "andrew",
+      "title": "Pendulum",
+      "url": "https://codevember-2026.vercel.app/18-pendulum/",
+      "source": "https://github.com/AndrewVoirol/codevember-2026/tree/HEAD/18-pendulum",
+      "day": 18,
+      "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-18-pendulum-initial.png"
+    },
+    {
       "creator": "drschizzo",
       "title": "L’équilibre renversé",
       "url": "https://drschizzo.github.io/Codevember/pendulum/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 18,
       "image": "https://drschizzo.github.io/Codevember/home/pendulum-scene.jpg"
+    },
+    {
+      "creator": "frida",
+      "title": "Pendulum",
+      "url": "https://codevember.vercel.app/018/",
+      "source": "https://codevember.vercel.app/",
+      "day": 18,
+      "image": "https://codevember.vercel.app/thumbs/018.jpg"
     },
     {
       "creator": "gregory",
@@ -2022,12 +2198,44 @@
       "image": "./covers/pendulum-pour.jpg"
     },
     {
+      "creator": "spite",
+      "title": "Erosion",
+      "url": "https://spite.github.io/codevember-2026/19/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 19,
+      "image": "https://spite.github.io/codevember-2026/screenshots/19.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Erosion",
+      "url": "https://adamwebsite.com/codevember/19-erosion/",
+      "source": "https://github.com/acher249/codevember-2026/tree/main/19-erosion",
+      "day": 19,
+      "image": "https://adamwebsite.com/codevember/share/19-erosion.jpg"
+    },
+    {
+      "creator": "theo",
+      "title": "Erosion",
+      "url": "https://ttillberg.github.io/codevember-2026/19/",
+      "source": "https://ttillberg.github.io/codevember-2026/",
+      "day": 19,
+      "image": "https://ttillberg.github.io/codevember-2026/19/screengrab.png"
+    },
+    {
       "creator": "drschizzo",
       "title": "Un paysage d’une heure",
       "url": "https://drschizzo.github.io/Codevember/erosion/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 19,
       "image": "https://drschizzo.github.io/Codevember/home/erosion-scene.jpg"
+    },
+    {
+      "creator": "frida",
+      "title": "Erosion",
+      "url": "https://codevember.vercel.app/019/",
+      "source": "https://codevember.vercel.app/",
+      "day": 19,
+      "image": "https://codevember.vercel.app/thumbs/019.jpg"
     },
     {
       "creator": "greg",
@@ -2119,11 +2327,19 @@
     },
     {
       "creator": "karim",
+      "title": "A Patch of Earth",
+      "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/patch-of-earth",
+      "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
+      "theme": "A Patch of Earth",
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-prJvQImW.webp"
+    },
+    {
+      "creator": "karim",
       "title": "Bonsai in the clouds",
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/bonsai",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Bonsai in the clouds",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/bonsai-RO9wqYS8.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-RO9wqYS8.webp"
     },
     {
       "creator": "karim",
@@ -2131,7 +2347,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/flight",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Cloud flight",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/flight-hxDVQpdo.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-hxDVQpdo.webp"
     },
     {
       "creator": "karim",
@@ -2139,7 +2355,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/glass",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Glass worlds",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/glass-AF-JZZjM.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-AF-JZZjM.webp"
     },
     {
       "creator": "karim",
@@ -2147,7 +2363,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/homesteads",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Homesteads",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/homesteads-EgJcj7Pr.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-EgJcj7Pr.webp"
     },
     {
       "creator": "karim",
@@ -2155,7 +2371,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/homing",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Homing",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/homing-XMlk2jNm.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-XMlk2jNm.webp"
     },
     {
       "creator": "karim",
@@ -2163,7 +2379,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/kitten",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Kitten in the grass",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/kitten-ho7_y_Kp.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-ho7_y_Kp.webp"
     },
     {
       "creator": "karim",
@@ -2171,7 +2387,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/orrery",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Orrery",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/orrery-uEFfSNJl.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-uEFfSNJl.webp"
     },
     {
       "creator": "karim",
@@ -2179,17 +2395,26 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/voxel",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Voxel valley",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/voxel-nB07IpkD.webp"
+      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-nB07IpkD.webp"
+    },
+    {
+      "creator": "sztanki",
+      "title": "Wisp — Particle Agent",
+      "url": "https://wisp.ginrin.com/",
+      "source": "https://x.com/ginrincom/status/2123274373800841241",
+      "theme": "Wisp",
+      "image": "https://wisp.ginrin.com/assets/images/website.webp"
     }
   ],
   "dailyUpdates": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "themes": [
       "04",
-      "06",
-      "07",
-      "08",
+      "05",
       "09",
+      "10",
+      "11",
+      "12",
       "13",
       "14",
       "15",
@@ -2200,5 +2425,5 @@
       "free"
     ]
   },
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
 }
