@@ -481,7 +481,87 @@
       "day": 12,
       "title": "Indian Blue Peacock",
       "url": "https://aishwary2004gupta.github.io/codevember-2026/12/",
-      "source": "https://github.com/Aishwary2004Gupta/codevember-2026/tree/main/12"
+      "source": "https://github.com/Aishwary2004Gupta/codevember-2026/tree/main/12",
+      "image": "https://aishwary2004gupta.github.io/codevember-2026/12/peacock-open.png"
+    },
+    {
+      "creator": "adam",
+      "day": 20,
+      "title": "Cocoon",
+      "url": "https://adamwebsite.com/codevember/20-cocoon/",
+      "source": "https://github.com/acher249/codevember-2026/tree/main/20-cocoon",
+      "image": "https://adamwebsite.com/codevember/share/20-cocoon.jpg"
+    },
+    {
+      "creator": "adam",
+      "day": 21,
+      "title": "Bolt",
+      "url": "https://adamwebsite.com/codevember/21-bolt/",
+      "source": "https://github.com/acher249/codevember-2026/tree/main/21-bolt",
+      "image": "https://adamwebsite.com/codevember/share/21-bolt.jpg"
+    },
+    {
+      "creator": "lars",
+      "day": 18,
+      "title": "Pendulum",
+      "url": "https://larsberg.github.io/2026-codevember-18-pendulum/",
+      "source": "https://github.com/larsberg/2026-codevember-18-pendulum",
+      "image": "https://larsberg.github.io/2026-codevember-18-pendulum/thumbnail.jpg"
+    },
+    {
+      "creator": "diego",
+      "day": 19,
+      "title": "Drought",
+      "url": "https://diegomarcos.com/vibecodevember/erosion/",
+      "source": "https://x.com/dmarcos/status/2123946576032997621",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2123946169676222464/img/0bBw6wpd7H7Ceij4.jpg?name=large"
+    },
+    {
+      "creator": "diego",
+      "day": 18,
+      "title": "Chaos",
+      "url": "https://diegomarcos.com/vibecodevember/pendulum/",
+      "source": "https://x.com/dmarcos/status/2123859754753880322",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2123859542048145409/img/anB8d4r8QU4z_EMx.jpg?name=large"
+    },
+    {
+      "creator": "diego",
+      "day": 17,
+      "title": "Breathless",
+      "url": "https://diegomarcos.com/vibecodevember/kelp/",
+      "source": "https://x.com/dmarcos/status/2123460943921422489",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2123460788367298560/img/iEq4-LTdaGwve1JP.jpg?name=large"
+    },
+    {
+      "creator": "karim",
+      "theme": "Mœbius strip",
+      "title": "Mœbius strip",
+      "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/moebius-strip",
+      "source": "https://x.com/KarimBeyrouti/status/2124057202604261485",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2124056950681841664/img/E8VXEwbuvWKzSl6J.jpg?name=large"
+    },
+    {
+      "creator": "karim",
+      "theme": "Thirty-six Views of a Patch of Earth",
+      "title": "Thirty-six Views of a Patch of Earth",
+      "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/woodblock",
+      "source": "https://x.com/KarimBeyrouti/status/2123805946287685822",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2123805754406666240/img/TNVBGAQb9PRG3nF7.jpg?name=large"
+    },
+    {
+      "creator": "aishwary",
+      "day": 1,
+      "title": "Fold — Self-folding Paper Planes",
+      "url": "https://aishwary2004gupta.github.io/codevember-2026/01/",
+      "source": "https://github.com/Aishwary2004Gupta/codevember-2026/tree/main/01",
+      "image": "https://aishwary2004gupta.github.io/codevember-2026/01/fold-preview.png"
+    },
+    {
+      "creator": "aishwary",
+      "day": 2,
+      "title": "Shatter",
+      "url": "https://aishwary2004gupta.github.io/codevember-2026/02/",
+      "source": "https://github.com/Aishwary2004Gupta/codevember-2026/tree/main/02"
     }
   ],
   "creators": {
@@ -520,7 +600,7 @@
       "url": "https://x.com/sztanki"
     },
     "aishwary": {
-      "name": "Aishwary2004Gupta",
+      "name": "Aishwary Gupta",
       "url": "https://github.com/Aishwary2004Gupta/codevember-2026"
     }
   }
