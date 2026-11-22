@@ -554,14 +554,31 @@
       "title": "Fold — Self-folding Paper Planes",
       "url": "https://aishwary2004gupta.github.io/codevember-2026/01/",
       "source": "https://github.com/Aishwary2004Gupta/codevember-2026/tree/main/01",
-      "image": "https://aishwary2004gupta.github.io/codevember-2026/01/fold-preview.png"
+      "image": "https://aishwary2004gupta.github.io/codevember-2026/01/fold_preview.png"
     },
     {
       "creator": "aishwary",
       "day": 2,
       "title": "Shatter",
       "url": "https://aishwary2004gupta.github.io/codevember-2026/02/",
-      "source": "https://github.com/Aishwary2004Gupta/codevember-2026/tree/main/02"
+      "source": "https://github.com/Aishwary2004Gupta/codevember-2026/tree/main/02",
+      "image": "https://aishwary2004gupta.github.io/codevember-2026/02/shatter-preview.png"
+    },
+    {
+      "creator": "theo",
+      "day": 20,
+      "title": "Cocoon",
+      "url": "https://ttillberg.github.io/codevember-2026/20/",
+      "source": "https://github.com/ttillberg/codevember-2026/tree/main/20",
+      "image": "https://raw.githubusercontent.com/ttillberg/codevember-2026/main/20/about/screengrab.png"
+    },
+    {
+      "creator": "karim",
+      "theme": "Impressions",
+      "title": "Impressions",
+      "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/impressions",
+      "source": "https://x.com/KarimBeyrouti/status/2124490675895128135",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2124490434445447168/img/4Idx6T-A86BIQing.jpg?name=large"
     }
   ],
   "creators": {

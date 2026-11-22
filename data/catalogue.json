@@ -308,7 +308,7 @@
       "url": "https://aishwary2004gupta.github.io/codevember-2026/01/",
       "source": "https://github.com/Aishwary2004Gupta/codevember-2026/tree/main/01",
       "day": 1,
-      "image": "https://aishwary2004gupta.github.io/codevember-2026/01/fold-preview.png"
+      "image": "https://aishwary2004gupta.github.io/codevember-2026/01/fold_preview.png"
     },
     {
       "creator": "mrdoob",
@@ -435,7 +435,8 @@
       "title": "Shatter",
       "url": "https://aishwary2004gupta.github.io/codevember-2026/02/",
       "source": "https://github.com/Aishwary2004Gupta/codevember-2026/tree/main/02",
-      "day": 2
+      "day": 2,
+      "image": "https://aishwary2004gupta.github.io/codevember-2026/02/shatter-preview.png"
     },
     {
       "creator": "mrdoob",
@@ -625,7 +626,7 @@
       "creator": "gregory",
       "title": "Tangle",
       "url": "https://grgrdvrt.com/works/codevember-2026/04_tangle/",
-      "source": "https://x.com/grgrdvrt/status/2118030302627107188",
+      "source": "https://grgrdvrt.com/works/codevember-2026/",
       "day": 4,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2118029788698796033/img/aFucBfEJkdSoSBhc.jpg?name=large"
     },
@@ -1966,6 +1967,14 @@
       "image": "https://adamwebsite.com/codevember/16-spore.jpg"
     },
     {
+      "creator": "akella",
+      "title": "Spore",
+      "url": "https://akella.github.io/codevember-2026/16/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 16,
+      "image": "https://akella.github.io/codevember-2026/16/cover.jpg"
+    },
+    {
       "creator": "theo",
       "title": "Spore",
       "url": "https://ttillberg.github.io/codevember-2026/16/",
@@ -2326,6 +2335,14 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2123946169676222464/img/0bBw6wpd7H7Ceij4.jpg?name=large"
     },
     {
+      "creator": "spite",
+      "title": "Cocoon",
+      "url": "https://spite.github.io/codevember-2026/20/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 20,
+      "image": "https://spite.github.io/codevember-2026/screenshots/20.jpg"
+    },
+    {
       "creator": "adam",
       "title": "Cocoon",
       "url": "https://adamwebsite.com/codevember/20-cocoon/",
@@ -2337,8 +2354,9 @@
       "creator": "theo",
       "title": "Cocoon",
       "url": "https://ttillberg.github.io/codevember-2026/20/",
-      "source": "https://ttillberg.github.io/codevember-2026/",
-      "day": 20
+      "source": "https://github.com/ttillberg/codevember-2026/tree/main/20",
+      "day": 20,
+      "image": "https://raw.githubusercontent.com/ttillberg/codevember-2026/main/20/about/screengrab.png"
     },
     {
       "creator": "drschizzo",
@@ -2363,6 +2381,14 @@
       "source": "https://x.com/_pwd_/status/2123793014472552481",
       "day": 20,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2123790070620508160/img/4S7opyucNVFQDWX6.jpg?name=large"
+    },
+    {
+      "creator": "spite",
+      "title": "Bolt",
+      "url": "https://spite.github.io/codevember-2026/21/",
+      "source": "https://spite.github.io/codevember-2026/",
+      "day": 21,
+      "image": "https://spite.github.io/codevember-2026/screenshots/21.jpg"
     },
     {
       "creator": "adam",
@@ -2403,6 +2429,14 @@
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 22,
       "image": "https://drschizzo.github.io/Codevember/home/echo-scene.jpg"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "Le front de pāhoehoe",
+      "url": "https://drschizzo.github.io/Codevember/magma/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 23,
+      "image": "https://drschizzo.github.io/Codevember/home/magma-scene.jpg"
     },
     {
       "creator": "andrew",
@@ -2502,6 +2536,14 @@
     },
     {
       "creator": "karim",
+      "title": "Impressions",
+      "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/impressions",
+      "source": "https://x.com/KarimBeyrouti/status/2124490675895128135",
+      "theme": "Impressions",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2124490434445447168/img/4Idx6T-A86BIQing.jpg?name=large"
+    },
+    {
+      "creator": "karim",
       "title": "Kitten in the grass",
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/kitten",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
@@ -2550,18 +2592,14 @@
     }
   ],
   "dailyUpdates": {
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "themes": [
-      "01",
-      "02",
-      "15",
-      "17",
-      "18",
-      "19",
+      "16",
       "20",
       "21",
+      "23",
       "free"
     ]
   },
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
 }
