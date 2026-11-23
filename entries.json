@@ -579,6 +579,54 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/impressions",
       "source": "https://x.com/KarimBeyrouti/status/2124490675895128135",
       "image": "https://pbs.twimg.com/amplify_video_thumb/2124490434445447168/img/4Idx6T-A86BIQing.jpg?name=large"
+    },
+    {
+      "creator": "adam",
+      "day": 22,
+      "title": "Echo",
+      "url": "https://adamwebsite.com/codevember/22-echo/",
+      "source": "https://github.com/acher249/codevember-2026/tree/main/22-echo",
+      "image": "https://adamwebsite.com/codevember/share/22-echo.jpg"
+    },
+    {
+      "creator": "adam",
+      "day": 23,
+      "title": "Magma",
+      "url": "https://adamwebsite.com/codevember/23-magma/",
+      "source": "https://github.com/acher249/codevember-2026/tree/main/23-magma",
+      "image": "https://adamwebsite.com/codevember/share/23-magma.jpg"
+    },
+    {
+      "creator": "karim",
+      "theme": "Fractal Voids",
+      "title": "Fractal Voids",
+      "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/fractal-voids?look=bone&seed=4439",
+      "source": "https://x.com/KarimBeyrouti/status/2124801833990508977",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2124801657917558784/img/rpEjxlm-o2CL69mz.jpg?name=large"
+    },
+    {
+      "creator": "lars",
+      "day": 19,
+      "title": "Erosion",
+      "url": "https://larsberg.github.io/2026-codevember-19-erosion/",
+      "source": "https://github.com/larsberg/2026-codevember-19-erosion",
+      "image": "https://larsberg.github.io/2026-codevember-19-erosion/thumbnail.jpg"
+    },
+    {
+      "creator": "greg",
+      "day": 22,
+      "title": "Canyon Chimes — Touch the Stone, Hear the Canyon Answer",
+      "url": "https://gregpuzzles1.github.io/codevember-2026/22/",
+      "source": "https://github.com/gregpuzzles1/codevember-2026/tree/main/22",
+      "image": "https://gregpuzzles1.github.io/codevember-2026/22/social-preview.png"
+    },
+    {
+      "creator": "niyati",
+      "day": 15,
+      "title": "Mirage — Glossy",
+      "url": "https://niyati82.github.io/codevember-2026/day-15-mirage/",
+      "source": "https://github.com/Niyati82/codevember-2026/tree/main/day-15-mirage",
+      "image": "https://raw.githubusercontent.com/Niyati82/codevember-2026/main/day-15-mirage/previews/ghost-running-closeup.png"
     }
   ],
   "creators": {
