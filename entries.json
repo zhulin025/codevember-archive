@@ -627,6 +627,69 @@
       "url": "https://niyati82.github.io/codevember-2026/day-15-mirage/",
       "source": "https://github.com/Niyati82/codevember-2026/tree/main/day-15-mirage",
       "image": "https://raw.githubusercontent.com/Niyati82/codevember-2026/main/day-15-mirage/previews/ghost-running-closeup.png"
+    },
+    {
+      "creator": "adam",
+      "day": 24,
+      "title": "Nest",
+      "url": "https://adamwebsite.com/codevember/24-nest/",
+      "source": "https://github.com/acher249/codevember-2026/tree/main/24-nest",
+      "image": "https://adamwebsite.com/codevember/share/24-nest.jpg"
+    },
+    {
+      "creator": "karim",
+      "theme": "Splinters of Light",
+      "title": "Splinters of Light",
+      "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/splinters-of-light",
+      "source": "https://x.com/KarimBeyrouti/status/2125114971184931295",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2125114846303653888/img/b7yY-l6tA_OcGnoJ.jpg?name=large"
+    },
+    {
+      "creator": "greg",
+      "day": 20,
+      "title": "A Little Light Within — A Tiny World Inside a Cocoon",
+      "url": "https://gregpuzzles1.github.io/codevember-2026/20/",
+      "source": "https://github.com/gregpuzzles1/codevember-2026/tree/main/20",
+      "image": "https://gregpuzzles1.github.io/codevember-2026/20/social-preview.png"
+    },
+    {
+      "creator": "greg",
+      "day": 23,
+      "title": "Magma Pulse — Follow the Pulse Through the Mountain",
+      "url": "https://gregpuzzles1.github.io/codevember-2026/23/",
+      "source": "https://github.com/gregpuzzles1/codevember-2026/tree/main/23",
+      "image": "https://gregpuzzles1.github.io/codevember-2026/23/social-preview.png"
+    },
+    {
+      "creator": "keaukraine",
+      "day": 24,
+      "title": "Nest — Floating Island",
+      "url": "https://keaukraine.github.io/codevember-2026/24/",
+      "source": "https://github.com/keaukraine/codevember-2026/tree/main/24",
+      "image": "./covers/keaukraine24.jpg"
+    },
+    {
+      "creator": "gregory",
+      "day": 14,
+      "title": "Tension",
+      "url": "https://grgrdvrt.com/works/codevember-2026/14_tension/",
+      "source": "https://grgrdvrt.com/works/codevember-2026/",
+      "image": "./covers/gregory14.jpg"
+    },
+    {
+      "creator": "spite",
+      "day": 22,
+      "title": "Echo",
+      "url": "https://spite.github.io/codevember-2026/22/",
+      "source": "https://github.com/spite/codevember-2026/tree/main/22",
+      "image": "https://spite.github.io/codevember-2026/screenshots/22-social.jpg"
+    },
+    {
+      "creator": "spite",
+      "day": 23,
+      "title": "Magma",
+      "url": "https://spite.github.io/codevember-2026/23/",
+      "source": "https://github.com/spite/codevember-2026/tree/main/23"
     }
   ],
   "creators": {
@@ -667,6 +730,10 @@
     "aishwary": {
       "name": "Aishwary Gupta",
       "url": "https://github.com/Aishwary2004Gupta/codevember-2026"
+    },
+    "keaukraine": {
+      "name": "Oleksandr Popov",
+      "url": "https://github.com/keaukraine/codevember-2026"
     }
   }
 }

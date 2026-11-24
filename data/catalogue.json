@@ -179,6 +179,10 @@
     "aishwary": {
       "name": "Aishwary Gupta",
       "url": "https://github.com/Aishwary2004Gupta/codevember-2026"
+    },
+    "keaukraine": {
+      "name": "Oleksandr Popov",
+      "url": "https://github.com/keaukraine/codevember-2026"
     }
   },
   "works": [
@@ -240,7 +244,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "Le papier qui se plie seul",
+      "title": "Un origami qui se plie seul",
       "url": "https://drschizzo.github.io/Codevember/fold/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 1,
@@ -343,6 +347,14 @@
       "image": "https://akella.github.io/codevember-2026/2/cover.jpg"
     },
     {
+      "creator": "theo",
+      "title": "Shatter",
+      "url": "https://ttillberg.github.io/codevember-2026/02/",
+      "source": "https://ttillberg.github.io/codevember-2026/",
+      "day": 2,
+      "image": "https://ttillberg.github.io/codevember-2026/02/screengrab.png"
+    },
+    {
       "creator": "vipin",
       "title": "Shatter",
       "url": "https://codevember-26.vercel.app/days/02-shatter/",
@@ -360,7 +372,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "Le verre brisé, refondu, soufflé, brisé",
+      "title": "Un verre brisé, refondu, soufflé",
       "url": "https://drschizzo.github.io/Codevember/shatter/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 2,
@@ -488,7 +500,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "La refonte",
+      "title": "Une cire refondue en boucle",
       "url": "https://drschizzo.github.io/Codevember/melt/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 3,
@@ -600,7 +612,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "Le tour de trop",
+      "title": "Une corde qui se vrille puis se démêle",
       "url": "https://drschizzo.github.io/Codevember/tangle/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 4,
@@ -720,7 +732,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "La reviviscence",
+      "title": "Une année de mousse sur une pierre",
       "url": "https://drschizzo.github.io/Codevember/moss/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 5,
@@ -832,7 +844,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "La chorégraphie des astres",
+      "title": "Une orbite et la machine qui la trace",
       "url": "https://drschizzo.github.io/Codevember/planetaire_v2/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 6,
@@ -944,7 +956,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "La plongée sans fond",
+      "title": "Des coquilles creuses emboîtées",
       "url": "https://drschizzo.github.io/Codevember/hollow/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 7,
@@ -1072,7 +1084,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "L’écrin qui se replie en hypercube",
+      "title": "Un hypercube replié et traversé",
       "url": "https://drschizzo.github.io/Codevember/tesseract/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 8,
@@ -1168,7 +1180,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "L’éclosion sans fin",
+      "title": "Des membranes tendues sur une armature",
       "url": "https://drschizzo.github.io/Codevember/membrane/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 9,
@@ -1280,7 +1292,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "Le foyer des ondes",
+      "title": "Un bassin au soleil",
       "url": "https://drschizzo.github.io/Codevember/caustic/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 10,
@@ -1392,7 +1404,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "La remise à nu",
+      "title": "Une pièce rouillée puis décapée",
       "url": "https://drschizzo.github.io/Codevember/rust/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 11,
@@ -1504,7 +1516,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "La plume en tuyau",
+      "title": "Une plume qui se déroule",
       "url": "https://drschizzo.github.io/Codevember/feather/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 12,
@@ -1648,7 +1660,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "Le dédale qu’on retourne",
+      "title": "Un labyrinthe qu’on incline",
       "url": "https://drschizzo.github.io/Codevember/labyrinth/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 13,
@@ -1784,7 +1796,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "Ce qui tient ne pousse pas",
+      "title": "Des tenségrités qui avancent",
       "url": "https://drschizzo.github.io/Codevember/tension/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 14,
@@ -1805,6 +1817,14 @@
       "source": "https://x.com/laserberg/status/2123162669628703110",
       "day": 14,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2123162583075082241/img/4wj2VM7NOn2j221H.jpg?name=large"
+    },
+    {
+      "creator": "gregory",
+      "title": "Tension",
+      "url": "https://grgrdvrt.com/works/codevember-2026/14_tension/",
+      "source": "https://grgrdvrt.com/works/codevember-2026/",
+      "day": 14,
+      "image": "./covers/gregory14.jpg"
     },
     {
       "creator": "tino",
@@ -1888,7 +1908,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "L’objet qui n’est pas là",
+      "title": "Un objet et son image dans un mirascope",
       "url": "https://drschizzo.github.io/Codevember/mirage/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 15,
@@ -2008,7 +2028,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "Le relais",
+      "title": "Un myxomycète qui fructifie",
       "url": "https://drschizzo.github.io/Codevember/spore/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 16,
@@ -2120,7 +2140,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "Le ressac",
+      "title": "Des laminaires dans la houle",
       "url": "https://drschizzo.github.io/Codevember/kelp/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 17,
@@ -2199,6 +2219,14 @@
       "image": "https://adamwebsite.com/codevember/share/18-pendulum.jpg"
     },
     {
+      "creator": "akella",
+      "title": "Pendulum",
+      "url": "https://akella.github.io/codevember-2026/18/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 18,
+      "image": "https://akella.github.io/codevember-2026/18/cover.jpg"
+    },
+    {
       "creator": "theo",
       "title": "Pendulum",
       "url": "https://ttillberg.github.io/codevember-2026/18/",
@@ -2224,7 +2252,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "L’équilibre renversé",
+      "title": "Une chaîne de pendules à l’envers",
       "url": "https://drschizzo.github.io/Codevember/pendulum/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 18,
@@ -2320,7 +2348,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "Un paysage d’une heure",
+      "title": "Une table d’érosion de laboratoire",
       "url": "https://drschizzo.github.io/Codevember/erosion/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 19,
@@ -2400,7 +2428,7 @@
     },
     {
       "creator": "drschizzo",
-      "title": "La lumière filée",
+      "title": "Deux lanternes et un ruban de soie",
       "url": "https://drschizzo.github.io/Codevember/cocoon/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 20,
@@ -2413,6 +2441,14 @@
       "source": "https://codevember.vercel.app/",
       "day": 20,
       "image": "https://codevember.vercel.app/thumbs/020.jpg"
+    },
+    {
+      "creator": "greg",
+      "title": "A Little Light Within — A Tiny World Inside a Cocoon",
+      "url": "https://gregpuzzles1.github.io/codevember-2026/20/",
+      "source": "https://github.com/gregpuzzles1/codevember-2026/tree/main/20",
+      "day": 20,
+      "image": "https://gregpuzzles1.github.io/codevember-2026/20/social-preview.png"
     },
     {
       "creator": "pwd",
@@ -2439,8 +2475,16 @@
       "image": "https://adamwebsite.com/codevember/share/21-bolt.jpg"
     },
     {
+      "creator": "vipin",
+      "title": "Bolt",
+      "url": "https://codevember-26.vercel.app/days/21-bolt/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 21,
+      "image": "https://codevember-26.vercel.app/thumbs/21.jpg"
+    },
+    {
       "creator": "drschizzo",
-      "title": "Une tempête dans une tasse de thé",
+      "title": "Un orage dans une tasse de thé",
       "url": "https://drschizzo.github.io/Codevember/bolt/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 21,
@@ -2471,6 +2515,14 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2124135488156028928/img/wqhme3_u9GQaNqJ8.jpg?name=large"
     },
     {
+      "creator": "spite",
+      "title": "Echo",
+      "url": "https://spite.github.io/codevember-2026/22/",
+      "source": "https://github.com/spite/codevember-2026/tree/main/22",
+      "day": 22,
+      "image": "https://spite.github.io/codevember-2026/screenshots/22-social.jpg"
+    },
+    {
       "creator": "adam",
       "title": "Echo",
       "url": "https://adamwebsite.com/codevember/22-echo/",
@@ -2487,8 +2539,16 @@
       "image": "https://ttillberg.github.io/codevember-2026/22/screengrab.png"
     },
     {
+      "creator": "vipin",
+      "title": "Echo",
+      "url": "https://codevember-26.vercel.app/days/22-echo/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 22,
+      "image": "https://codevember-26.vercel.app/thumbs/22.jpg"
+    },
+    {
       "creator": "drschizzo",
-      "title": "Le miroir en retard",
+      "title": "La lumière au ralenti",
       "url": "https://drschizzo.github.io/Codevember/echo/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 22,
@@ -2519,6 +2579,13 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2124526963008143360/img/PBgOryQ6AHzrGwmf.jpg?name=large"
     },
     {
+      "creator": "spite",
+      "title": "Magma",
+      "url": "https://spite.github.io/codevember-2026/23/",
+      "source": "https://github.com/spite/codevember-2026/tree/main/23",
+      "day": 23
+    },
+    {
       "creator": "adam",
       "title": "Magma",
       "url": "https://adamwebsite.com/codevember/23-magma/",
@@ -2527,20 +2594,107 @@
       "image": "https://adamwebsite.com/codevember/share/23-magma.jpg"
     },
     {
+      "creator": "vipin",
+      "title": "Magma",
+      "url": "https://codevember-26.vercel.app/days/23-magma/",
+      "source": "https://codevember-26.vercel.app/",
+      "day": 23,
+      "image": "https://codevember-26.vercel.app/thumbs/23.jpg"
+    },
+    {
       "creator": "drschizzo",
-      "title": "Le front de pāhoehoe",
+      "title": "Un front de lave pāhoehoe",
       "url": "https://drschizzo.github.io/Codevember/magma/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 23,
       "image": "https://drschizzo.github.io/Codevember/home/magma-scene.jpg"
     },
     {
+      "creator": "greg",
+      "title": "Magma Pulse — Follow the Pulse Through the Mountain",
+      "url": "https://gregpuzzles1.github.io/codevember-2026/23/",
+      "source": "https://github.com/gregpuzzles1/codevember-2026/tree/main/23",
+      "day": 23,
+      "image": "https://gregpuzzles1.github.io/codevember-2026/23/social-preview.png"
+    },
+    {
+      "creator": "pwd",
+      "title": "Magma",
+      "url": "https://dasprinzip.com/codevember2026/23-magma.html",
+      "source": "https://x.com/_pwd_/status/2124886611750261021",
+      "day": 23,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2124886116163612672/img/8qUPKE_8RMrTKvWO.jpg?name=large"
+    },
+    {
+      "creator": "spite",
+      "title": "Nest",
+      "url": "https://spite.github.io/codevember-2026/24/",
+      "source": "https://github.com/spite/codevember-2026/tree/HEAD/24",
+      "day": 24,
+      "image": "https://spite.github.io/codevember-2026/screenshots/24.jpg"
+    },
+    {
+      "creator": "adam",
+      "title": "Nest",
+      "url": "https://adamwebsite.com/codevember/24-nest/",
+      "source": "https://github.com/acher249/codevember-2026/tree/main/24-nest",
+      "day": 24,
+      "image": "https://adamwebsite.com/codevember/share/24-nest.jpg"
+    },
+    {
+      "creator": "theo",
+      "title": "Nest",
+      "url": "https://ttillberg.github.io/codevember-2026/24/",
+      "source": "https://ttillberg.github.io/codevember-2026/",
+      "day": 24,
+      "image": "https://ttillberg.github.io/codevember-2026/24/screengrab.png"
+    },
+    {
       "creator": "drschizzo",
-      "title": "La saison de papier",
+      "title": "Un nid de guêpes pendant une saison",
       "url": "https://drschizzo.github.io/Codevember/nest/",
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 24,
       "image": "https://drschizzo.github.io/Codevember/home/nest-scene.jpg"
+    },
+    {
+      "creator": "pwd",
+      "title": "Nest",
+      "url": "https://dasprinzip.com/codevember2026/24-nest.html",
+      "source": "https://x.com/_pwd_/status/2125217028659102193",
+      "day": 24,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2125216735380873216/img/5DWGQOZPxS-ag6nh.jpg?name=large"
+    },
+    {
+      "creator": "keaukraine",
+      "title": "Nest — Floating Island",
+      "url": "https://keaukraine.github.io/codevember-2026/24/",
+      "source": "https://github.com/keaukraine/codevember-2026/tree/main/24",
+      "day": 24,
+      "image": "./covers/keaukraine24.jpg"
+    },
+    {
+      "creator": "spite",
+      "title": "Veil",
+      "url": "https://spite.github.io/codevember-2026/25/",
+      "source": "https://github.com/spite/codevember-2026/tree/HEAD/25",
+      "day": 25
+    },
+    {
+      "creator": "drschizzo",
+      "title": "Une dentelle sur une statue absente",
+      "url": "https://drschizzo.github.io/Codevember/veil/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 25,
+      "image": "https://drschizzo.github.io/Codevember/home/veil-scene.jpg"
+    },
+    {
+      "creator": "drschizzo",
+      "title": "Un tas de ferraille dont l’ombre devient un animal",
+      "url": "https://drschizzo.github.io/Codevember/anamorph/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 26,
+      "image": "https://drschizzo.github.io/Codevember/home/anamorph-scene.jpg"
     },
     {
       "creator": "andrew",
@@ -2680,6 +2834,14 @@
     },
     {
       "creator": "karim",
+      "title": "Splinters of Light",
+      "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/splinters-of-light",
+      "source": "https://x.com/KarimBeyrouti/status/2125114971184931295",
+      "theme": "Splinters of Light",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2125114846303653888/img/b7yY-l6tA_OcGnoJ.jpg?name=large"
+    },
+    {
+      "creator": "karim",
       "title": "Thirty-six Views of a Patch of Earth",
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/woodblock",
       "source": "https://x.com/KarimBeyrouti/status/2123805946287685822",
@@ -2704,18 +2866,20 @@
     }
   ],
   "dailyUpdates": {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "themes": [
-      "15",
-      "17",
-      "19",
+      "02",
+      "14",
+      "18",
       "20",
       "21",
       "22",
       "23",
       "24",
+      "25",
+      "26",
       "free"
     ]
   },
-  "updated": "2026-11-23"
+  "updated": "2026-11-24"
 }
