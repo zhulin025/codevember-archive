@@ -270,7 +270,7 @@
       "creator": "gregory",
       "title": "Fold",
       "url": "https://grgrdvrt.com/works/codevember-2026/01_fold/",
-      "source": "https://grgrdvrt.com/works/codevember-2026/",
+      "source": "https://x.com/grgrdvrt/status/2117302342869475503",
       "day": 1,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2117300988306477056/img/S6YLGti4GyVr-taY.jpg?name=large"
     },
@@ -398,7 +398,7 @@
       "creator": "gregory",
       "title": "Shatter",
       "url": "https://grgrdvrt.com/works/codevember-2026/02_shatter/",
-      "source": "https://grgrdvrt.com/works/codevember-2026/",
+      "source": "https://x.com/grgrdvrt/status/2118017556820930910",
       "day": 2,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2118017290570489856/img/dDclM5j2Vamlws8V.jpg?name=large"
     },
@@ -481,6 +481,13 @@
       "source": "https://akella.github.io/codevember-2026/",
       "day": 3,
       "image": "https://akella.github.io/codevember-2026/3/cover.jpg"
+    },
+    {
+      "creator": "theo",
+      "title": "Melt",
+      "url": "https://ttillberg.github.io/codevember-2026/03/",
+      "source": "https://ttillberg.github.io/codevember-2026/",
+      "day": 3
     },
     {
       "creator": "vipin",
@@ -638,7 +645,7 @@
       "creator": "gregory",
       "title": "Tangle",
       "url": "https://grgrdvrt.com/works/codevember-2026/04_tangle/",
-      "source": "https://grgrdvrt.com/works/codevember-2026/",
+      "source": "https://x.com/grgrdvrt/status/2118030302627107188",
       "day": 4,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2118029788698796033/img/aFucBfEJkdSoSBhc.jpg?name=large"
     },
@@ -758,7 +765,7 @@
       "creator": "gregory",
       "title": "Moss",
       "url": "https://grgrdvrt.com/works/codevember-2026/05_moss/",
-      "source": "https://grgrdvrt.com/works/codevember-2026/",
+      "source": "https://x.com/grgrdvrt/status/2118462864864497867",
       "day": 5,
       "image": "https://pbs.twimg.com/media/HWZI3GKX0AAWthA.jpg?name=large"
     },
@@ -1643,6 +1650,14 @@
       "image": "https://akella.github.io/codevember-2026/13/cover.jpg"
     },
     {
+      "creator": "theo",
+      "title": "Labyrinth",
+      "url": "https://ttillberg.github.io/codevember-2026/13/",
+      "source": "https://ttillberg.github.io/codevember-2026/",
+      "day": 13,
+      "image": "https://ttillberg.github.io/codevember-2026/13/screengrab.png"
+    },
+    {
       "creator": "vipin",
       "title": "Labyrinth",
       "url": "https://codevember-26.vercel.app/days/13-labyrinth/",
@@ -1685,7 +1700,7 @@
     {
       "creator": "gregory",
       "title": "Labyrinth",
-      "url": "https://x.com/grgrdvrt/status/2121503378836464092",
+      "url": "https://grgrdvrt.com/works/codevember-2026/13_labyrinth/",
       "source": "https://x.com/grgrdvrt/status/2121503378836464092",
       "day": 13,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2121502665527951360/img/vxi2hRAeidXEOkOu.jpg?name=large"
@@ -1929,6 +1944,13 @@
       "source": "https://x.com/laserberg/status/2123168470665773559",
       "day": 15,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2123168365493579776/img/7wBT292ZUUzlt-_g.jpg?name=large"
+    },
+    {
+      "creator": "gregory",
+      "title": "Mirage",
+      "url": "https://grgrdvrt.com/works/codevember-2026/15_mirage/",
+      "source": "https://grgrdvrt.com/works/codevember-2026/",
+      "day": 15
     },
     {
       "creator": "greg",
@@ -2435,6 +2457,14 @@
       "image": "https://adamwebsite.com/codevember/share/20-cocoon.jpg"
     },
     {
+      "creator": "akella",
+      "title": "Cocoon",
+      "url": "https://akella.github.io/codevember-2026/20/",
+      "source": "https://akella.github.io/codevember-2026/",
+      "day": 20,
+      "image": "https://akella.github.io/codevember-2026/20/cover.jpg"
+    },
+    {
       "creator": "theo",
       "title": "Cocoon",
       "url": "https://ttillberg.github.io/codevember-2026/20/",
@@ -2483,12 +2513,28 @@
       "image": "https://gregpuzzles1.github.io/codevember-2026/20/social-preview.png"
     },
     {
+      "creator": "tino",
+      "title": "Spiders Weaving Cocoons",
+      "url": "https://x.com/tinotibaldo/status/2124665794478969262",
+      "source": "https://x.com/tinotibaldo/status/2124665794478969262",
+      "day": 20,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2124664999360471040/img/Jvz8xhmP2u7pTQ08.jpg?name=large"
+    },
+    {
       "creator": "pwd",
       "title": "Cocoon",
       "url": "https://dasprinzip.com/codevember2026/20-cocoon.html",
       "source": "https://x.com/_pwd_/status/2123793014472552481",
       "day": 20,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2123790070620508160/img/4S7opyucNVFQDWX6.jpg?name=large"
+    },
+    {
+      "creator": "diego",
+      "title": "Metamorphosis",
+      "url": "https://diegomarcos.com/vibecodevember/cocoon/",
+      "source": "https://x.com/dmarcos/status/2125621031360430198",
+      "day": 20,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2125620681987526656/img/f-GqeaMMmlgY9mCu.jpg?name=large"
     },
     {
       "creator": "spite",
@@ -2547,12 +2593,28 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2124828907194994688/img/g_L1LD14iU-VE9bq.jpg?name=large"
     },
     {
+      "creator": "tino",
+      "title": "Bolt",
+      "url": "https://x.com/tinotibaldo/status/2125361718511509718",
+      "source": "https://x.com/tinotibaldo/status/2125361718511509718",
+      "day": 21,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2125361524680101888/img/Bhu0jAqrsMxC75r6.jpg?name=large"
+    },
+    {
       "creator": "pwd",
       "title": "Bolt",
       "url": "https://dasprinzip.com/codevember2026/21-bolt.html",
       "source": "https://x.com/_pwd_/status/2124136582298894462",
       "day": 21,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2124135488156028928/img/wqhme3_u9GQaNqJ8.jpg?name=large"
+    },
+    {
+      "creator": "diego",
+      "title": "Under pressure",
+      "url": "https://diegomarcos.com/vibecodevember/bolt/",
+      "source": "https://x.com/dmarcos/status/2125700295640420370",
+      "day": 21,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2125699722883051520/img/5sn5a9A96Mq2eNDo.jpg?name=large"
     },
     {
       "creator": "spite",
@@ -2619,6 +2681,14 @@
       "image": "https://gregpuzzles1.github.io/codevember-2026/22/social-preview.png"
     },
     {
+      "creator": "tino",
+      "title": "Echo",
+      "url": "https://x.com/tinotibaldo/status/2125726421918056806",
+      "source": "https://x.com/tinotibaldo/status/2125726421918056806",
+      "day": 22,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2125726356159741952/img/Fd10GACvmwdu1cDF.jpg?name=large"
+    },
+    {
       "creator": "pwd",
       "title": "Echo",
       "url": "https://dasprinzip.com/codevember2026/22-echo.html",
@@ -2673,6 +2743,14 @@
       "source": "https://codevember.vercel.app/",
       "day": 23,
       "image": "https://codevember.vercel.app/thumbs/023.jpg"
+    },
+    {
+      "creator": "gregory",
+      "title": "Magma",
+      "url": "https://grgrdvrt.com/works/codevember-2026/23_magma/",
+      "source": "https://x.com/grgrdvrt/status/2125625300876923276",
+      "day": 23,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2125622186190811136/img/2VsNvmoy4BCGM6wE.jpg?name=large"
     },
     {
       "creator": "greg",
@@ -2766,8 +2844,17 @@
       "creator": "spite",
       "title": "Veil",
       "url": "https://spite.github.io/codevember-2026/25/",
-      "source": "https://github.com/spite/codevember-2026/tree/HEAD/25",
-      "day": 25
+      "source": "https://x.com/thespite/status/2125661492850626786",
+      "day": 25,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2125660008415170563/img/9d209b0c9vnWnRTQ.jpg?name=large"
+    },
+    {
+      "creator": "adam",
+      "title": "Veil",
+      "url": "https://adamwebsite.com/codevember/25-veil/",
+      "source": "https://x.com/ajc_builds/status/2125767131224785376",
+      "day": 25,
+      "image": "https://adamwebsite.com/codevember/share/25-veil.jpg"
     },
     {
       "creator": "andrew",
@@ -2786,12 +2873,28 @@
       "image": "https://drschizzo.github.io/Codevember/home/veil-scene.jpg"
     },
     {
+      "creator": "frida",
+      "title": "Veil",
+      "url": "https://codevember.vercel.app/025/",
+      "source": "https://codevember.vercel.app/",
+      "day": 25,
+      "image": "https://codevember.vercel.app/thumbs/025.jpg"
+    },
+    {
       "creator": "pwd",
       "title": "Veil",
       "url": "https://dasprinzip.com/codevember2026/25-veil.html",
       "source": "https://x.com/_pwd_/status/2125536557033480438",
       "day": 25,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2125536210290417664/img/gf3b6RJqzS4Mt5_o.jpg?name=large"
+    },
+    {
+      "creator": "adam",
+      "title": "Anamorph",
+      "url": "https://adamwebsite.com/codevember/26-anamorph/",
+      "source": "https://github.com/acher249/codevember-2026/tree/main/26-anamorph",
+      "day": 26,
+      "image": "https://adamwebsite.com/codevember/share/26-anamorph.jpg"
     },
     {
       "creator": "andrew",
@@ -2834,6 +2937,14 @@
       "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-28-hive-initial.png"
     },
     {
+      "creator": "drschizzo",
+      "title": "Le rayon qui cherche sa cellule",
+      "url": "https://drschizzo.github.io/Codevember/hive/",
+      "source": "https://drschizzo.github.io/Codevember/",
+      "day": 28,
+      "image": "https://drschizzo.github.io/Codevember/home/hive-scene.jpg"
+    },
+    {
       "creator": "andrew",
       "title": "Portal",
       "url": "https://codevember-2026.vercel.app/29-portal/",
@@ -2856,6 +2967,22 @@
       "source": "https://github.com/AndrewVoirol/codevember-2026",
       "theme": "Specimen",
       "image": "https://raw.githubusercontent.com/AndrewVoirol/codevember-2026/HEAD/screenshots/day-00-specimen-initial.png"
+    },
+    {
+      "creator": "tino",
+      "title": "GLB Volcano",
+      "url": "https://x.com/tinotibaldo/status/2125723015824736378",
+      "source": "https://x.com/tinotibaldo/status/2125723015824736378",
+      "theme": "GLB Volcano",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2125722665973317632/img/Y-h6kM9j4_sxnceE.jpg?name=large"
+    },
+    {
+      "creator": "tino",
+      "title": "Real-time LLM Postprocessing",
+      "url": "https://x.com/tinotibaldo/status/2124830516851409242",
+      "source": "https://x.com/tinotibaldo/status/2124830516851409242",
+      "theme": "LLM Postprocessing",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2124830033520791553/img/Al18Npo_riLj_Tgl.jpg?name=large"
     },
     {
       "creator": "tiago",
@@ -2903,7 +3030,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/patch-of-earth",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "A Patch of Earth",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-Cmsm9AiZ.webp"
+      "image": "https://karimbeyrouti.github.io/codevember/assets/card-Cmsm9AiZ.webp"
     },
     {
       "creator": "karim",
@@ -2919,7 +3046,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/bonsai",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Bonsai in the clouds",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-BE73CphL.webp"
+      "image": "https://karimbeyrouti.github.io/codevember/assets/card-BE73CphL.webp"
     },
     {
       "creator": "karim",
@@ -2927,7 +3054,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/flight",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Cloud flight",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-CHENVCl2.webp"
+      "image": "https://karimbeyrouti.github.io/codevember/assets/card-CHENVCl2.webp"
     },
     {
       "creator": "karim",
@@ -2943,7 +3070,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/glass",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Glass worlds",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-AX4llmMw.webp"
+      "image": "https://karimbeyrouti.github.io/codevember/assets/card-AX4llmMw.webp"
     },
     {
       "creator": "karim",
@@ -2951,7 +3078,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/homesteads",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Homesteads",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-SAlyPs-t.webp"
+      "image": "https://karimbeyrouti.github.io/codevember/assets/card-SAlyPs-t.webp"
     },
     {
       "creator": "karim",
@@ -2959,7 +3086,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/homing",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Homing",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-BcyWTaM2.webp"
+      "image": "https://karimbeyrouti.github.io/codevember/assets/card-BcyWTaM2.webp"
     },
     {
       "creator": "karim",
@@ -2975,7 +3102,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/kitten",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Kitten in the grass",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-CGjv_L8q.webp"
+      "image": "https://karimbeyrouti.github.io/codevember/assets/card-CGjv_L8q.webp"
     },
     {
       "creator": "karim",
@@ -2991,7 +3118,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/orrery",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Orrery",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-C4QV9I0m.webp"
+      "image": "https://karimbeyrouti.github.io/codevember/assets/card-C4QV9I0m.webp"
     },
     {
       "creator": "karim",
@@ -3000,6 +3127,14 @@
       "source": "https://x.com/KarimBeyrouti/status/2125114971184931295",
       "theme": "Splinters of Light",
       "image": "https://pbs.twimg.com/amplify_video_thumb/2125114846303653888/img/b7yY-l6tA_OcGnoJ.jpg?name=large"
+    },
+    {
+      "creator": "karim",
+      "title": "The Babel Beacon",
+      "url": "https://karimbeyrouti.github.io/codevember/26/26/",
+      "source": "https://x.com/KarimBeyrouti/status/2125752296382550196",
+      "theme": "The Babel Beacon",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2125751938817957888/img/ZU95wiWwH_YIynP-.jpg?name=large"
     },
     {
       "creator": "karim",
@@ -3015,7 +3150,7 @@
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/voxel",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
       "theme": "Voxel valley",
-      "image": "https://karimbeyrouti.github.io/rainforest/assets/card-CcHTsimQ.webp"
+      "image": "https://karimbeyrouti.github.io/codevember/assets/card-CcHTsimQ.webp"
     },
     {
       "creator": "sztanki",
@@ -3027,23 +3162,20 @@
     }
   ],
   "dailyUpdates": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "themes": [
-      "17",
-      "19",
+      "03",
+      "13",
+      "15",
       "20",
       "21",
       "22",
       "23",
-      "24",
       "25",
       "26",
-      "27",
       "28",
-      "29",
-      "30",
       "free"
     ]
   },
-  "updated": "2026-11-25"
+  "updated": "2026-11-26"
 }
