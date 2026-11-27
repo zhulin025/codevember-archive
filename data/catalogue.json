@@ -183,6 +183,11 @@
     "keaukraine": {
       "name": "Oleksandr Popov",
       "url": "https://github.com/keaukraine/codevember-2026"
+    },
+    "raimon": {
+      "name": "Raimon Ràfols",
+      "handle": "rrafols",
+      "url": "https://blog.rafols.org/vibecodevember26/"
     }
   },
   "works": [
@@ -270,7 +275,7 @@
       "creator": "gregory",
       "title": "Fold",
       "url": "https://grgrdvrt.com/works/codevember-2026/01_fold/",
-      "source": "https://x.com/grgrdvrt/status/2117302342869475503",
+      "source": "https://grgrdvrt.com/works/codevember-2026/",
       "day": 1,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2117300988306477056/img/S6YLGti4GyVr-taY.jpg?name=large"
     },
@@ -398,7 +403,7 @@
       "creator": "gregory",
       "title": "Shatter",
       "url": "https://grgrdvrt.com/works/codevember-2026/02_shatter/",
-      "source": "https://x.com/grgrdvrt/status/2118017556820930910",
+      "source": "https://grgrdvrt.com/works/codevember-2026/",
       "day": 2,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2118017290570489856/img/dDclM5j2Vamlws8V.jpg?name=large"
     },
@@ -645,7 +650,7 @@
       "creator": "gregory",
       "title": "Tangle",
       "url": "https://grgrdvrt.com/works/codevember-2026/04_tangle/",
-      "source": "https://x.com/grgrdvrt/status/2118030302627107188",
+      "source": "https://grgrdvrt.com/works/codevember-2026/",
       "day": 4,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2118029788698796033/img/aFucBfEJkdSoSBhc.jpg?name=large"
     },
@@ -765,7 +770,7 @@
       "creator": "gregory",
       "title": "Moss",
       "url": "https://grgrdvrt.com/works/codevember-2026/05_moss/",
-      "source": "https://x.com/grgrdvrt/status/2118462864864497867",
+      "source": "https://grgrdvrt.com/works/codevember-2026/",
       "day": 5,
       "image": "https://pbs.twimg.com/media/HWZI3GKX0AAWthA.jpg?name=large"
     },
@@ -869,7 +874,7 @@
       "creator": "gregory",
       "title": "Orrery",
       "url": "https://grgrdvrt.com/works/codevember-2026/06_orrery/",
-      "source": "https://x.com/grgrdvrt/status/2118734949561798749",
+      "source": "https://grgrdvrt.com/works/codevember-2026/",
       "day": 6,
       "image": "https://pbs.twimg.com/media/HWdBQiOX0AAhO51.jpg?name=large"
     },
@@ -2233,6 +2238,14 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2123460788367298560/img/iEq4-LTdaGwve1JP.jpg?name=large"
     },
     {
+      "creator": "mrdoob",
+      "title": "Pendulum",
+      "url": "https://mrdoob.github.io/codevember-2026/18/",
+      "source": "https://mrdoob.github.io/codevember-2026/",
+      "day": 18,
+      "image": "https://mrdoob.github.io/codevember-2026/18/preview.webp"
+    },
+    {
       "creator": "spite",
       "title": "Pendulum",
       "url": "https://spite.github.io/codevember-2026/18/",
@@ -2697,6 +2710,14 @@
       "image": "https://pbs.twimg.com/amplify_video_thumb/2124526963008143360/img/PBgOryQ6AHzrGwmf.jpg?name=large"
     },
     {
+      "creator": "diego",
+      "title": "Silent Service",
+      "url": "https://diegomarcos.com/vibecodevember/echo/",
+      "source": "https://x.com/dmarcos/status/2126168787762491442",
+      "day": 22,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2126168287209807872/img/Avp2dqL-FG1Ti_j4.jpg?name=large"
+    },
+    {
       "creator": "spite",
       "title": "Magma",
       "url": "https://spite.github.io/codevember-2026/23/",
@@ -2881,12 +2902,28 @@
       "image": "https://codevember.vercel.app/thumbs/025.jpg"
     },
     {
+      "creator": "greg",
+      "title": "The Three Gossips",
+      "url": "https://gregpuzzles1.github.io/codevember-2026/25/",
+      "source": "https://github.com/gregpuzzles1/codevember-2026/tree/main/25",
+      "day": 25,
+      "image": "https://gregpuzzles1.github.io/codevember-2026/25/social-preview.png"
+    },
+    {
       "creator": "pwd",
       "title": "Veil",
       "url": "https://dasprinzip.com/codevember2026/25-veil.html",
       "source": "https://x.com/_pwd_/status/2125536557033480438",
       "day": 25,
       "image": "https://pbs.twimg.com/amplify_video_thumb/2125536210290417664/img/gf3b6RJqzS4Mt5_o.jpg?name=large"
+    },
+    {
+      "creator": "spite",
+      "title": "Anamorph",
+      "url": "https://spite.github.io/codevember-2026/26/",
+      "source": "https://x.com/thespite/status/2126020915750187499",
+      "day": 26,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2126020496869228544/img/2vSmsLeVH2_UL_6r.jpg?name=large"
     },
     {
       "creator": "adam",
@@ -2913,6 +2950,22 @@
       "image": "https://drschizzo.github.io/Codevember/home/anamorph-scene.jpg"
     },
     {
+      "creator": "greg",
+      "title": "Spore Alignment",
+      "url": "https://gregpuzzles1.github.io/codevember-2026/26/",
+      "source": "https://github.com/gregpuzzles1/codevember-2026/tree/main/26",
+      "day": 26,
+      "image": "https://gregpuzzles1.github.io/codevember-2026/26/social-preview.png"
+    },
+    {
+      "creator": "pwd",
+      "title": "Anamorph",
+      "url": "https://dasprinzip.com/codevember2026/26-anamorph.html",
+      "source": "https://x.com/_pwd_/status/2126010425091178555",
+      "day": 26,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2126009743659450368/img/3gWHQVYLCW4uWaIc.jpg?name=large"
+    },
+    {
       "creator": "andrew",
       "title": "Burrow",
       "url": "https://codevember-2026.vercel.app/27-burrow/",
@@ -2927,6 +2980,14 @@
       "source": "https://drschizzo.github.io/Codevember/",
       "day": 27,
       "image": "https://drschizzo.github.io/Codevember/home/burrow-scene.jpg"
+    },
+    {
+      "creator": "pwd",
+      "title": "Burrow",
+      "url": "https://dasprinzip.com/codevember2026/27-burrow.html",
+      "source": "https://x.com/_pwd_/status/2126271510851584350",
+      "day": 27,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2126271102112407552/img/oH5-kGZspawOdrIR.jpg?name=large"
     },
     {
       "creator": "andrew",
@@ -3114,6 +3175,14 @@
     },
     {
       "creator": "karim",
+      "title": "Open All Night",
+      "url": "https://karimbeyrouti.github.io/codevember/26/27/",
+      "source": "https://x.com/KarimBeyrouti/status/2126256422224805956",
+      "theme": "Open All Night",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2126255954622595072/img/M1EfZywfxAHSfy4X.jpg?name=large"
+    },
+    {
+      "creator": "karim",
       "title": "Orrery",
       "url": "https://karimbeyrouti.github.io/rainforest/codevember.html#/orrery",
       "source": "https://karimbeyrouti.github.io/rainforest/codevember.html",
@@ -3159,23 +3228,226 @@
       "source": "https://x.com/ginrincom/status/2123274373800841241",
       "theme": "Wisp",
       "image": "https://wisp.ginrin.com/assets/images/website.webp"
+    },
+    {
+      "creator": "raimon",
+      "title": "03 — Filament",
+      "url": "https://blog.rafols.org/vibecodevember26/03.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Filament",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/03.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "04 — Event horizon",
+      "url": "https://blog.rafols.org/vibecodevember26/04.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Event horizon",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/04.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "05 — Attraction",
+      "url": "https://blog.rafols.org/vibecodevember26/05.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Attraction",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/05.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "06 — Veil",
+      "url": "https://blog.rafols.org/vibecodevember26/06.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Veil",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/06.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "07 — Murmuration",
+      "url": "https://blog.rafols.org/vibecodevember26/07.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Murmuration",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/07.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "08 — Cathedral",
+      "url": "https://blog.rafols.org/vibecodevember26/08.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Cathedral",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/08.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "09 — Lichtenberg",
+      "url": "https://blog.rafols.org/vibecodevember26/09.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Lichtenberg",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/09.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "10 — Phase space",
+      "url": "https://blog.rafols.org/vibecodevember26/10.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Phase space",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/10.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "11 — Meander",
+      "url": "https://blog.rafols.org/vibecodevember26/11.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Meander",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/11.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "12 — Incense",
+      "url": "https://blog.rafols.org/vibecodevember26/12.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Incense",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/12.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "13 — Collision",
+      "url": "https://blog.rafols.org/vibecodevember26/13.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Collision",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/13.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "14 — Kintsugi",
+      "url": "https://blog.rafols.org/vibecodevember26/14.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Kintsugi",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/14.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "15 — Grindstone",
+      "url": "https://blog.rafols.org/vibecodevember26/15.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Grindstone",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/15.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "16 — Medusa",
+      "url": "https://blog.rafols.org/vibecodevember26/16.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Medusa",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/16.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "17 — Relic",
+      "url": "https://blog.rafols.org/vibecodevember26/17.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Relic",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/17.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "18 — Mercury",
+      "url": "https://blog.rafols.org/vibecodevember26/18.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Mercury",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/18.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "19 — Precession",
+      "url": "https://blog.rafols.org/vibecodevember26/19.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Precession",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/19.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "20 — Domino",
+      "url": "https://blog.rafols.org/vibecodevember26/20.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Domino",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/20.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "21 — Pendulum",
+      "url": "https://blog.rafols.org/vibecodevember26/21.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Pendulum",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/21.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "22 — Rain",
+      "url": "https://blog.rafols.org/vibecodevember26/22.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Rain",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/22.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "23 — Obsidian",
+      "url": "https://blog.rafols.org/vibecodevember26/23.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Obsidian",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/23.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "24 — Foundry",
+      "url": "https://blog.rafols.org/vibecodevember26/24.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Foundry",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/24.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "25 — Jelly",
+      "url": "https://blog.rafols.org/vibecodevember26/25.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Jelly",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/25.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "26 — Vortex",
+      "url": "https://blog.rafols.org/vibecodevember26/26.html",
+      "source": "https://blog.rafols.org/vibecodevember26/",
+      "theme": "Vortex",
+      "image": "https://blog.rafols.org/vibecodevember26/videos/26.jpg"
+    },
+    {
+      "creator": "raimon",
+      "title": "Aftershock",
+      "url": "https://blog.rafols.org/vibecodevember26/02.html",
+      "source": "https://x.com/rrafols/status/2126088183616241904",
+      "theme": "Aftershock",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2126088093291692032/img/ybFVoFkL6FChInIy.jpg?name=large"
+    },
+    {
+      "creator": "raimon",
+      "title": "Corona",
+      "url": "https://blog.rafols.org/vibecodevember26/01.html",
+      "source": "https://x.com/rrafols/status/2126082811035595128",
+      "theme": "Corona",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2126080263067254784/img/jmTjUYGKjNSzMi7p.jpg?name=large"
     }
   ],
   "dailyUpdates": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "themes": [
-      "03",
-      "13",
-      "15",
-      "20",
-      "21",
+      "18",
       "22",
-      "23",
       "25",
       "26",
-      "28",
+      "27",
       "free"
     ]
   },
-  "updated": "2026-11-26"
+  "updated": "2026-11-27"
 }
